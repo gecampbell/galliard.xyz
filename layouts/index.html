@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ .Site.Title }}</title>
+{{ partial "head.html" . }}
+<style>
+@import url('/galliard.css');
+body {
+text-align: center;
+}
+h1 {
+font-size: 32pt;
+font-size: 6vw;
+border-bottom: 1px black solid;
+}
+</style>
+</head>
+<body lang="en">
+<h1>{{ .Site.Title }}</h1>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

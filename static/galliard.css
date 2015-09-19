@@ -1,0 +1,64 @@
+body {
+font-family:'ITC Galliard W01 Roman';
+background: white;
+color: black;
+width: 44em;
+margin: auto;
+font-size: 14pt;
+}
+div#mti_wfs_colophon img {
+display: none;
+}
+a {
+text-decoration: none;
+color: silver;
+}
+a:visited {
+color: gray;
+}
+a:hover {
+color: black;
+text-decoration: underline;
+}
+
+header {
+font-size: 14pt;
+margin: 1em 0 1em 0;
+border-bottom: 1px gray dotted;
+}
+header a, header a:visited {
+color: gray;
+text-decoration: none;
+}
+header a:hover {
+color: black;
+text-decoration: none;
+}
+footer {
+margin-top: 1em;
+line-height: 140%;
+font-size: 10pt;
+}
+footer smaller {
+font-style: italic;
+}
+h1 {
+font-weight: normal;
+}
+date {
+font-style: italic;
+font-size: smaller;
+display: block;
+}
+article {
+width: 36em;
+line-height: 150%;
+margin: 2em 0 2em 0;
+}
+article p {
+margin: 1em 0 1em 0;
+}
+article blockquote {
+font-style: italic;
+margin: 1em 3em 1em 3em;
+}

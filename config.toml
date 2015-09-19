@@ -1,3 +1,8 @@
 baseurl = "http://galliard.xyz/"
 languageCode = "en-us"
 title = "Galliard"
+uglyURLS = true
+
+[params]
+Description = "Fresh content and links served occasionally"
+Author = 'Glen Campbell <glen@galliard.xyz>'
