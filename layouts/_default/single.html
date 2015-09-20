@@ -12,11 +12,17 @@
 
 <h1>{{ .Title }}</h1>
 
-<date>{{ .Date.Format "January 2, 2006" }}</date>
-
 <article>
 {{ .Content }}
 </article>
+
+<p id="info">
+<date>{{ .Date.Format "January 2, 2006" }}</date>
+{{ if isset .Params "author" }}
+<br>
+<author>{{ .Params.author }}</author>
+{{ end }}
+</p>
 
 {{ partial "footer.html" . }}
 </body>

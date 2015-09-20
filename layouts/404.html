@@ -1,19 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>{{ .Site.Title }}: Not Found</title>
-{{ partial "head.html" .}}
+<title>{{ .Site.Title }}: {{ .Title }}</title>
+{{ partial "head.html" . }}
 <style>
 @import url('/galliard.css');
-h1 {
-color: red;
-}
 </style>
 </head>
-<body>
+<body lang="en">
 {{ partial "header.html" . }}
 
-<h1>Not Found</h1>
+<h1>{{ .Title }}</h1>
+
+<article>
+<p>The page that you are attempting to load has not been found.
+Generally, this means that you have followed a link to content 
+that is no longer available or you have entered an incorrect
+uniform resource locator (URL).
+</p>
+</article>
 
 {{ partial "footer.html" . }}
 </body>

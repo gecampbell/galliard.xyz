@@ -1,57 +1,17 @@
 +++
 date = "2015-09-18T16:48:39-07:00"
-draft = false
+draft = true
 title = "About Galliard"
 +++
 
-This is a website. 
-It holds *original* content and links to other places on the Internet.
-This is not doing anything.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
+**Galliard** is a typeface designed by Matthew Carter and
+published by the International Typeface Corporation in 1978.
+It is also the name of a Renaissance-era dance that was
+popular all over Europe in the 16th century.
 
-## Subheading Goes Here
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
+Thus, the name represents both a beautiful experience as well
+as the playful exuberance of dance. Both these elements
+are hopefully present in this website, and in life as well.
 
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-
-> Now is the time for all
-> good men to come to the
-> aid of their party.
-> Four score and seven years ago, our
-> fathers brought forth on this continent
-> a new nation, conceived in Liberty,
-> and dedicated to the proposition that all 
-> men were
-> created equal.
-
-And that's that, he said.
-
-### Third-level headline
-
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
-Four score and seven years ago, our fathers brought forth on this
-continent a new nation, conceived in Liberty, and dedicated to
-the proposition that all men were created equal.
+These writings are a meager attempt to capture the beauty, precision,
+and playfulness of life and the world around us.

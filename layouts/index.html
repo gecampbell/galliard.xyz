@@ -18,6 +18,12 @@ border-bottom: 1px black solid;
 <body lang="en">
 <h1>{{ .Site.Title }}</h1>
 
+<ol id="index">
+{{ range .Data.Pages }}
+  {{ .Render "item"}}
+{{ end }}
+</ol>
+
 {{ partial "footer.html" . }}
 </body>
 </html>
