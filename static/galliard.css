@@ -52,7 +52,7 @@ margin-bottom: 1em;
 }
 article {
 width: 36em;
-line-height: 150%;
+line-height: 23pt;
 margin: 2em 0 2em 0;
 }
 article p {
@@ -69,7 +69,7 @@ font-style: italic;
 padding: 0;
 margin: 0;
 font-size: 15pt;
-line-height: 160%;
+line-height: 21pt;
 }
 p#info {
 font-style: italic;

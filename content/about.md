@@ -1,7 +1,7 @@
 +++
 date = "2015-09-18T16:48:39-07:00"
-draft = true
-title = "About Galliard"
+draft = false
+title = "About this site"
 +++
 
 **Galliard** is a typeface designed by Matthew Carter and
