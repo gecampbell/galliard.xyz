@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ .Site.Title }}: {{ .Title }}</title>
+{{ partial "head.html" . }}
+<style>
+@import url('/galliard.css');
+</style>
+</head>
+<body lang="en">
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
+
+<ol id="index">
+{{ range .Data.Pages.ByTitle }}
+  {{ .Render "item"}}
+{{ end }}
+</ol>
+
+{{ partial "footer.html" . }}
+</body>
+</html>
