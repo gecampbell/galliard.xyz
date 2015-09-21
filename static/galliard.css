@@ -3,15 +3,16 @@ font-family:'ITC Galliard W01 Roman';
 background: white;
 color: black;
 width: 44em;
+max-width: 80%;
 margin: auto;
-font-size: 14pt;
 }
+/** gets rid of annoying fond advert **/
 div#mti_wfs_colophon img {
 display: none;
 }
 a {
 text-decoration: none;
-color: silver;
+color: blue;
 }
 a:visited {
 color: gray;
