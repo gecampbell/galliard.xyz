@@ -4,6 +4,8 @@ background: white;
 color: black;
 width: 44em;
 max-width: 80%;
+min-width: 44em;
+font-size: 13pt;
 margin: auto;
 }
 /** gets rid of annoying fond advert **/

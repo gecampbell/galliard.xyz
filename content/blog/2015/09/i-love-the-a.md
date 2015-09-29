@@ -74,3 +74,8 @@ at the top of the "l" and "i" are wedge-shaped rather than slightly
 curved, which is easier to do with a pen (the serifs at the bottom
 are more traditional).
 
+Type design is one of the most subtle of the arts. 
+The distinctions between one font and another are often based upon
+minimal variations in ratios, and not any absolute, large-scale 
+changes. After all, the glyphs must still represent the letters
+of the language, and too much variation makes it unreadable.
