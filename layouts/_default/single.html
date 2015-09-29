@@ -17,8 +17,10 @@
 </article>
 
 <p id="info">
+{{ if (isset .Params "author") }}
 <author>{{ .Params.author }}</author>
 <br>
+{{ end }}
 <date>{{ .Date.Format "January 2, 2006" }}</date>
 </p>
 
