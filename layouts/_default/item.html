@@ -1,1 +1,1 @@
-<li><a href="{{ .Permalink }}" title="{{ .Date.Format "January 2, 2006" }}">{{ .Title }}</a></li>
+<li><a href="{{ .Permalink }}" title="{{ .Date.Format "January 2, 2006" }}">{{ .Title | safeHTML }}</a></li>
