@@ -2,7 +2,6 @@
 author = "Glen Campbell"
 date = "2015-09-29T07:20:50-07:00"
 title = "I love the “a”"
-
 +++
 
 I have to be honest, the reason I love the

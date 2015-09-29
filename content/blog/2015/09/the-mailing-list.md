@@ -1,5 +1,6 @@
 +++
-date = "2015-09-30T10:04:38-07:00"
+date = "2015-09-29T10:04:38-07:00"
+publishdate = "2015-09-30T06:04:38-07:00"
 draft = false
 title = "The mailing list"
 author = "Glen Campbell"
