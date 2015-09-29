@@ -1,7 +1,7 @@
 +++
 date = "2015-09-18T16:48:39-07:00"
 title = "About this site"
-draft = true
+draft = false
 +++
 
 **Galliard** is a typeface designed by Matthew Carter and
@@ -15,3 +15,4 @@ are hopefully present in this website, and in life as well.
 
 These writings are a meager attempt to capture the beauty, precision,
 and playfulness of life and the world around us.
+
