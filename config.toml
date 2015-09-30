@@ -10,4 +10,4 @@ author = "/author/:title.html"
 
 [params]
 Description = "Fresh content and links served occasionally"
-Author = 'Glen Campbell <glen@galliard.xyz>'
+Author = "Glen Campbell"
