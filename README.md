@@ -26,9 +26,10 @@ To see what your page looks like, run Hugo in server mode:
     hugo server -w
 
 You can see the site locally on your computer. On mine, it's at
-http://localhost:1313/ but look at the output of the `hugo server`
-command to see where it ends up on yours.  The `-w` will cause Hugo
-to monitor your changes or edits and automatically update the site.
+[http://127.0.0.1:1313/](http://127.0.0.1:1313) but look at the
+output of the `hugo server` command to see where it ends up on
+yours.  The `-w` will cause Hugo to monitor your changes or edits
+and automatically update the site.
 
 Submit a pull request and I'll either publish it, edit it and publish
 it, or send it back with suggested changes. I suppose that if it's
