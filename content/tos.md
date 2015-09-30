@@ -1,6 +1,5 @@
 +++
 date = "2015-09-30T12:24:21-07:00"
-tags = ["essay", "other"]
 title = "Terms of Service"
 
 +++

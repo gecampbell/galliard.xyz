@@ -3,6 +3,7 @@ date = "2015-09-29T10:23:38-07:00"
 draft = false
 title = "The humble mailing list"
 author = "Glen Campbell"
+tags = ["email","social","facebook","essay"]
 +++
 
 Email actually predates the Internet. Users of the Internet's

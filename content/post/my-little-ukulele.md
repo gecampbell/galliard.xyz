@@ -2,6 +2,7 @@
 author = "Glen Campbell"
 date = "2015-09-30T07:41:09-07:00"
 title = "My little ukulele"
+tags = ["essay","ukulele","music","relocation","texas","seattle"]
 +++
 I'm currently in the middle of moving to Seattle from San Antonio,
 Texas.  I started moving around April, when I accepted an offer
