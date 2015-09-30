@@ -2,9 +2,10 @@ body {
 font-family:'ITC Galliard W01 Roman';
 background: white;
 color: black;
-width: 42em;
+max-width: 40em;
 font-size: 13pt;
-margin: auto;
+margin: auto 5% auto 5%;
+-webkit-text-size-adjust: 100%;
 }
 /** gets rid of annoying fond advert **/
 div#mti_wfs_colophon img {
