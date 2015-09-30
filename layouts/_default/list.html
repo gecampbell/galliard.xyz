@@ -13,7 +13,7 @@
 <h1>{{ .Title }}</h1>
 
 <ol id="index">
-{{ range .Data.Pages.ByTitle }}
+{{ range .Data.Pages }}
   {{ .Render "item"}}
 {{ end }}
 </ol>
