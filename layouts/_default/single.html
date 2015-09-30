@@ -21,6 +21,10 @@
 <author>{{ .Params.author }}</author>
 <br>
 {{ end }}
+{{ if (isset .Params "location") }}
+{{ .Params.location }}
+<br>
+{{ end }}
 <date>{{ .Date.Format "January 2, 2006" }}</date>
 </p>
 

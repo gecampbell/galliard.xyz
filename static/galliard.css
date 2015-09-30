@@ -24,11 +24,12 @@ text-decoration: underline;
 
 header {
 font-size: 14pt;
+line-height: 18pt;
 margin: 1em 0 1em 0;
 border-bottom: 1px gray dotted;
 }
 header a, header a:visited {
-color: gray;
+color: #555;
 text-decoration: none;
 }
 header a:hover {
@@ -85,4 +86,11 @@ font-size: smaller;
 .footnotes {
 font-size: smaller;
 line-height: 120%;
+}
+.right-menu {
+float: right;
+font-size: 10pt;
+}
+.right-menu a {
+padding-left: 4pt;
 }

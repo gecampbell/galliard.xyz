@@ -14,13 +14,13 @@ border-bottom: 1px black solid;
 <h1>{{ .Site.Title }}</h1>
 
 <ol id="index">
-{{ range where .Data.Pages "Section" "blog" }}
+{{ range where .Data.Pages "Section" "post" }}
   {{ .Render "item"}}
 {{ end }}
-{{ range where .Data.Pages "Section" "author" }}
+{{ range where .Data.Pages.ByTitle "Section" "author" }}
   {{ .Render "item"}}
 {{ end }}
-{{ range where .Data.Pages "Section" "" }}
+{{ range where .Data.Pages.ByTitle "Section" "" }}
   {{ .Render "item"}}
 {{ end }}
 </ol>

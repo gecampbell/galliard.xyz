@@ -1,7 +1,7 @@
 +++
 date = "2015-09-30T10:00:30-07:00"
 title = "Glen Campbell"
-
+location = "Seattle, Washington (USA)"
 +++
 
 I was born in 1961 the fetid swamps of southeast Texas, in the city

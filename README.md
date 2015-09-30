@@ -14,12 +14,16 @@ Hugo from that link before you get started.
 To contribute a new blog post to Galliard, fork this
 repository and add a new post with Hugo like this:
 
-    hugo new blog/{year}/{month}/your-blog-name.md
+    hugo new blog/your-post-title.md
 
 Your post will show up under
 `content/blog/{year}/{month}/your-blog-name.md` and you can edit
 it (in [Markdown](http://daringfireball.net/projects/markdown/syntax))
 to your heart's content.
+
+If it's your first post, you can add an Author page as well:
+
+    hugo new author/your-name.md
 
 To see what your page looks like, run Hugo in server mode:
 
