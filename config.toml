@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Galliard"
 uglyURLS = true
 
+[permalinks]
+blog = "/blog/:year/:month/:title.html"
+author = "/author/:title.html"
+
 [params]
 Description = "Fresh content and links served occasionally"
 Author = 'Glen Campbell <glen@galliard.xyz>'
