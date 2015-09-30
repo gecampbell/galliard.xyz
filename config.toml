@@ -4,7 +4,8 @@ title = "Galliard"
 uglyURLS = true
 
 [permalinks]
-blog = "/blog/:year/:month/:filename.html"
+post = "/post/:year/:month/:filename.html"
+project = "/project/:filename.html"
 author = "/author/:title.html"
 
 [params]
