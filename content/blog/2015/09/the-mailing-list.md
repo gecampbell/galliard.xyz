@@ -1,8 +1,7 @@
 +++
-date = "2015-09-29T10:04:38-07:00"
-publishdate = "2015-09-30T06:04:38-07:00"
+date = "2015-09-29T10:23:38-07:00"
 draft = false
-title = "The mailing list"
+title = "The humble mailing list"
 author = "Glen Campbell"
 +++
 
@@ -20,12 +19,12 @@ and containing topics ranging from comics to pornography and
 everything in between and beyond.
 
 [Facebook](http://www.facebook.com) is now by far the dominant
-leader in social media, connecting a substantial portion of the
+leader in "social" media, connecting a substantial portion of the
 Earth's human inhabitants on a daily basis. Email, however, is still
 around and still in daily use.
 
 While Facebook is extraordinarily good at capturing interactions
-between people, its sheer size makes it less good at capturing
+between people, its sheer size makes it less good at facilitating
 smaller groups. I tend to think of Facebook as an enormous convention
 center. I can wander around for hours, ducking into various rooms
 and seeing what all my friends are up to on a daily basis. It's
@@ -62,8 +61,8 @@ are available for years in the future. If they're not, then I can
 keep my own copies around, and I have complete access to the
 information.
 
-There are two mailing lists that I am a member of that are most
-dear to me. The first is the [Tech Breakfast
+While I am a member of many mailing lists, there are two in particular
+that are most important to me. The first is the [Tech Breakfast
 list](http://xlerb.email/mailman/listinfo/breakfast); this started
 a few years ago when I was living in Silicon Valley.  A group of
 us started meeting on occasional Saturday mornings for breakfast,
@@ -81,18 +80,37 @@ that you can't join unless you are recommended or approved by an
 existing list member.
 
 The second list that I dearly love is the Gunroom of the [HMS
-Surprise](http://hmssurprise.org/). This is a list that was established
-twenty years ago to discuss "The works of [Patrick
+Surprise](http://hmssurprise.org/). This list was established to
+discuss "The works of [Patrick
 O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian) and
 anything else." I joined the list sometime in 1995, before there
 was a formal archive, and my first recorded post was [on Hallowe'en
 of that year](http://mat.gsia.cmu.edu/POB/19xx/OCT95/0060.html).
 What a fascinating, delightful group of people! I've come to know
 and love many of them, and sadly have watched a number of them
-depart this life. This list is open and public, and anyone
-can join by
-[following the instructions here](http://www.hmssurprise.org/gunroom-access-and-settings).
+depart this life.  In addition to discussing the novels of Patrick
+O'Brian, there have been discussions on falconry, weaponry, distilled
+spirits, children, grandchildren, music, travel, and the fascinations
+of meeting other people from other places. Just this evening, we
+performed a "rolling toast" (6PM in whatever timezone you happen
+to inhabit at the moment) in honor of the 20th anniversary of the
+list's founding (and it also happens to be Admiral Lord Nelson's
+birthday).[^2][^3]
+
+The Gunroom list is open and public, and anyone can join by [following
+the instructions
+here](http://www.hmssurprise.org/gunroom-access-and-settings).
 
 
 
-[^1]: Note that [Friendfeed](http://isfriendfeeddeadyet.com), which was acquired by Facebook, had many of the advantages that I attribute to email. For example, *everything* was visible; there was no algorithm that chose what the system thought I wanted to see. 
+[^1]: Note that [Friendfeed](http://isfriendfeeddeadyet.com), which 
+    was acquired by Facebook, had many of the advantages that I 
+    attribute to email. For example, *everything* was visible; 
+    there was no algorithm that chose what the system thought I 
+    wanted to see. 
+[^2]: It's rare that I manage to squeeze two parenthetical clauses into
+    a single sentence, so I thought I'd point that out in case you
+    missed it.
+[^3]: It's rare that I manage to put three footnotes in a single
+    blog post, so I thought I'd point that out in case you missed
+    it. 
