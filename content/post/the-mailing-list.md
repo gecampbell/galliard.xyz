@@ -113,5 +113,4 @@ here](http://www.hmssurprise.org/gunroom-access-and-settings).
     a single sentence, so I thought I'd point that out in case you
     missed it.
 [^3]: It's rare that I manage to put three footnotes in a single
-    blog post, so I thought I'd point that out in case you missed
-    it. 
+    blog post, so I thought I'd point that out in case you missed it. 
