@@ -15,7 +15,8 @@
 <article>
 {{ .Content }}
 </article>
- 
+
+{{ if (ne .Section "") }}
 <p id="info">
 {{ if (isset .Params "author") }}
 <author>{{ .Params.author }}</author>
@@ -27,6 +28,7 @@
 {{ end }}
 <date>{{ .Date.Format "January 2, 2006" }}</date>
 </p>
+{{ end }}
 
 {{ partial "footer.html" . }}
 </body>
