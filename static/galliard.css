@@ -4,7 +4,8 @@ background: white;
 color: black;
 max-width: 40em;
 font-size: 13pt;
-margin: auto 5% auto 5%;
+margin: auto;
+padding: 0 1em 0 1em;
 -webkit-text-size-adjust: 100%;
 }
 /** gets rid of annoying fond advert **/
