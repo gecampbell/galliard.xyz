@@ -1,5 +1,5 @@
 +++
-date = "2015-09-30T10:00:30-07:00"
+date = "2015-09-20T10:00:30-07:00"
 title = "Glen Campbell"
 location = "Seattle, Washington (USA)"
 +++

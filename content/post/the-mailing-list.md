@@ -80,6 +80,12 @@ week, all of which are interesting. This is a closed list, meaning
 that you can't join unless you are recommended or approved by an
 existing list member.
 
+(I host a number of other mailing lists, including
+[Books](http://xlerb.email/mailman/listinfo/books),
+[Grump](http://xlerb.email/mailman/listinfo/grump), and
+[No-Reply](http://xlerb.email/mailman/listinfo/no-reply)
+(a mailing list about nothing in particular).
+
 The second list that I dearly love is the Gunroom of the [HMS
 Surprise](http://hmssurprise.org/). This list was established to
 discuss "The works of [Patrick
