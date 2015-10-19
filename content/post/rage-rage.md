@@ -1,7 +1,7 @@
 +++
 author = "Glen Campbell"
 date = "2015-10-19T13:30:11-07:00"
-tags = ["essay", "other"]
+tags = ["essay", "other", "memory", "alzheimers", "gerontology", "age", "mark knopfler", "glen campbell"]
 title = "Rage, Rage"
 
 +++
