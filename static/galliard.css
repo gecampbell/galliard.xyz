@@ -61,7 +61,7 @@ font-size: 36pt;
 }
 h2, h3, h4, h5, h6 {
 margin-top: 2em;
-margin-bottom: 1em;
+margin-bottom: .5em;
 }
 article {
 line-height: 23pt;
