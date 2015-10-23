@@ -64,8 +64,11 @@ article blockquote {
 font-style: italic;
 margin: 1em 3em 1em 3em;
 }
-article img, .flickr-embed {
+article img, article .flickr-embed {
 float: right;
+}
+article.podcast img {
+float: none;
 }
 sup, sub {
 vertical-align: baseline;
