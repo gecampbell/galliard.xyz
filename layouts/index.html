@@ -15,7 +15,7 @@ border-bottom: 1px black solid;
 
 <ol id="index">
 <!-- posts -->
-{{ range where .Data.Pages "Section" "post" }}
+{{ range where .Data.Pages "Section" "essay" }}
   {{ .Render "item"}}
 {{ end }}
 <!-- authors -->

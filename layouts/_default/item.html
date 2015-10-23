@@ -1,1 +1,1 @@
-<li><a href="{{ .Permalink }}"{{ if (eq .Section "post") }} title="Posted on {{ .Date.Format "January 2, 2006" }}"{{ end }}>{{ .Title | safeHTML }}</a></li>
+<li><a href="{{ .Permalink }}"{{ if (ne .Section "") }} title="Posted on {{ .Date.Format "January 2, 2006" }}"{{ end }}>{{ .Title | safeHTML }}</a></li>

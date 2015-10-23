@@ -12,6 +12,12 @@
 
 <h1>{{ .Title | safeHTML }}</h1>
 
+{{ if (isset .Params "audio") }}
+<audio controls>
+<source src="{{ .Params.audio }}">
+</audio>
+{{ end }}
+
 <article>
 {{ .Content }}
 </article>
