@@ -15,17 +15,20 @@ margin-top: 2em;
 <h1>{{ .Site.Title }}<hr></h1>
 <ol id="index">
 <!-- posts -->
+<h2>Essays</h2>
 {{ range where .Data.Pages "Section" "essay" }}
   {{ .Render "item"}}
 {{ end }}
-<hr>
+<h2>Other Categories</h2>
 <li><a href="/k6gec.html" title="Ham radio posts">Ham Radio</a></li>
 <li><a href="/podcast.html" title="My podcast">On Garner Road</a></li>
 <!-- authors -->
+<h2>Authors</h2>
 {{ range where .Data.Pages.ByTitle "Section" "author" }}
   {{ .Render "item"}}
 {{ end }}
 <!-- site -->
+<h2>Miscellaneous</h2>
 {{ range where .Data.Pages.ByTitle "Section" "" }}
   {{ .Render "item"}}
 {{ end }}
