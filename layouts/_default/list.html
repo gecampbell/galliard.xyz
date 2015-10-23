@@ -12,14 +12,18 @@
 
 {{ if eq .Title "K6gecs" }}
 <h1>Ham Radio</h1>
+<article>
 <p>These are a number of posts related to amateur ("ham") radio.
 Since they are probably not of general interest, I keep them in
 a separate section here. K6GEC is my FCC-issued callsign.</p>
+</article>
 {{ else if eq .Title "Podcasts" }}
 <h1>On Garner Road</h1>
+<article>
 <p>A few years ago, I operated an infrequent podcast wherein 
 I interviewed interesting and unusual people on the Internet.
 They are archived here for all to see.</p>
+</article>
 {{else}}
 <h1>{{ .Title }}</h1>
 {{end}}

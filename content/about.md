@@ -16,6 +16,4 @@ present in this website, and in life as well.
 These writings are an attempt to capture, in words, the beauty,
 precision, and playfulness of life and the world around us.
 
-If you'd like to contibute to **Galliard**, follow the instructions
-to submit a pull request [via our Github
-repository](https://github.com/gecampbell/galliard.xyz).
+[Glen Campbell](/author/glen-campbell.html)

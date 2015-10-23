@@ -46,9 +46,10 @@ header hr {
 margin-top: 0;
 }
 footer {
+clear: both;
 line-height: 140%;
 font-size: 10pt;
-margin: 3em 0 2em 0;
+padding: 3em 0 2em 0;
 color: #ddd;
 }
 h1 {
@@ -90,6 +91,9 @@ padding: 0;
 margin: 0;
 font-size: 16pt;
 line-height: 24pt;
+}
+a:visited:before {
+content: "\2713 ";
 }
 p#info {
 font-style: italic;
