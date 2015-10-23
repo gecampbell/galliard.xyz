@@ -172,5 +172,5 @@ I am looking forward to getting back on a bicycle soon, however.
 
 
 [^1]: I actually rode against Greg Lemond in a race in Houston when he
-was an up-and-coming youth cycling star. I'm pretty sure I finished 
-behind him.
+      was an up-and-coming youth cycling star. I'm pretty sure I finished 
+      behind him.

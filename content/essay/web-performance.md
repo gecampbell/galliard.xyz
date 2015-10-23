@@ -154,5 +154,5 @@ in the correct URL for the static assets. Those links are removed
 when the site is published.
 
 [^1]: Note that compression may cause problems on some older browsers.
-Frankly, I don't care. If you're still running IE5, then I don't need
-you as a reader.
+      Frankly, I don't care. If you're still running IE5, then I don't need
+      you as a reader.

@@ -54,13 +54,8 @@ The year was spent on learning the scientific method, on understanding observati
 As an exam, it was one of the worst grades I ever received. As a lesson on the importance of observation and analysis, it stuck with me the rest of my life.
 
 [^1]: A bad habit that continues to this day.
-
 [^2]: Drum _rudiments_ are the basic strokes used for playing a drum. [There are 40 standard ones](http://en.wikipedia.org/wiki/Drum_rudiment), and the traditional method of teaching percussion involved learning, memorizing, and practicing all of them. "Modern" percussion has loosened up on some of these traditions and has altered the basic strokes to be more in conformance with what a drummer in a stage band would use rather than someone in a military band.
-
 [^3]: It amuses me to no end that this page may end up in the search engine results for various pornographic queries.
-
 [^4]: And beyond; I attended college with some of them, and I still keep in touch with a number of those friends.
-
 [^5]: Like much of my life.
-
 [^6]: The caricature of the drunken fishing outing does not play here. In Southeast Texas, bass fishing was approached with deadly seriousness. There was beer, of course, but everyone knew that the point of the trip was to catch fish.

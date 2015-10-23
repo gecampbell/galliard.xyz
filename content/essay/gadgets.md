@@ -63,18 +63,13 @@ available to us at so little a price that we can afford to spend
 much of it on games and amusements.
 
 [^1]: An LST, or "Landing Ship Tank," a very large amphibious
-craft intended to deposit tanks on the shores of the numerous Pacific
-islands.
-
+      craft intended to deposit tanks on the shores of the numerous Pacific
+      islands.
 [^2]: Probably the
-[SR-10](http://www.vintagecalculators.com/html/texas_instruments_sr-10.html).
-
+      [SR-10](http://www.vintagecalculators.com/html/texas_instruments_sr-10.html).
 [^3]: "Any sufficiently advanced technology is indistinguishable
-from magic." &mdash;Arthur C. Clarke
-
-[^4]: An HP15C, which is [now available as an app for the
-iPhone](http://itunes.apple.com/us/app/hp-15c-scientific-calculator/id318956846?mt=8).
-
+      from magic." &mdash;Arthur C. Clarke
+[^4]: An HP15C, which is [now available as an app for the iPhone](http://itunes.apple.com/us/app/hp-15c-scientific-calculator/id318956846?mt=8).
 [^5]: UIL&mdash;this organization was run by the University of Texas
-system and moderated all competitions, both athletic and academic,
-across the state of Texas.
+      system and moderated all competitions, both athletic and academic,
+      across the state of Texas.

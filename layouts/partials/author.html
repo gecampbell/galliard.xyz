@@ -1,0 +1,4 @@
+{{ if isset . "author" }}
+{{ $auth := .author }}
+<author>{{ index .Site.Data.Authlinks $auth }} - {{ .author }}</author>
+{{ end }}
