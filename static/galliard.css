@@ -17,26 +17,33 @@ text-decoration: none;
 color: blue;
 }
 a:visited {
-color: gray;
+color: #555;
 }
 a:hover {
-color: black;
 text-decoration: underline;
 }
-
+hr {
+border: 0; 
+height: 1px; 
+background: #333; 
+background-image: linear-gradient(to left, #ccc, #333, #ccc);
+}
 header {
 font-size: 16pt;
 line-height: 18pt;
-margin: 1em 0 1em 0;
-border-bottom: 1px gray dotted;
+margin: 1em 0 0 0;
+#border-bottom: 1px gray dotted;
 }
-header a, header a:visited {
+header a, header a:visited, footer a, footer a:visited {
 color: #555;
 text-decoration: none;
 }
-header a:hover {
+header a:hover, footer a:hover {
 color: black;
 text-decoration: none;
+}
+header hr {
+margin-top: 0;
 }
 footer {
 line-height: 140%;
@@ -79,7 +86,6 @@ sub { top: 0.4em; }
 
 ol#index {
 list-style-type: none;
-font-style: italic;
 padding: 0;
 margin: 0;
 font-size: 16pt;
@@ -102,4 +108,10 @@ text-transform: uppercase;
 }
 .right-menu a {
 padding-left: 4pt;
+}
+
+@media print {
+  .right-menu {
+  display: none;
+  }
 }

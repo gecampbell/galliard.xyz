@@ -6,18 +6,19 @@
 <style>
 @import url('/galliard.css');
 h1 {
-border-bottom: 1px black solid;
+line-height: 50%;
+margin-top: 2em;
 }
 </style>
 </head>
 <body lang="en">
-<h1>{{ .Site.Title }}</h1>
-
+<h1>{{ .Site.Title }}<hr></h1>
 <ol id="index">
 <!-- posts -->
 {{ range where .Data.Pages "Section" "essay" }}
   {{ .Render "item"}}
 {{ end }}
+<hr>
 <li><a href="/k6gec.html" title="Ham radio posts">Ham Radio</a></li>
 <li><a href="/podcast.html" title="My podcast">On Garner Road</a></li>
 <!-- authors -->
