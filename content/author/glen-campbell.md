@@ -88,3 +88,5 @@ Group.
 
 In 2015, I moved on to an engineering manager position with
 [Amazon](http://www.amazon.com) and moved to Seattle, WA.
+
+[Click here to see my current r&eacute;sum&eacute;](/resume.html)
