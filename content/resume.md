@@ -1,5 +1,5 @@
 ---
-title: "R&eacute;sum&eacute;"
+title: "R&eacute;sum&eacute;: Glen Campbell"
 author: "Glen Campbell"
 slug: resume
 tags: [cloud,engineer,data,resume,sql,etl,software,architect]
