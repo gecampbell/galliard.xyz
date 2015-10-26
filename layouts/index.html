@@ -3,6 +3,7 @@
 <head>
 <title>{{ .Site.Title }}</title>
 {{ partial "head.html" . }}
+<link rel="alternate" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
 <style>
 @import url('/galliard.css');
 h1 {
@@ -13,6 +14,7 @@ margin-top: 2em;
 </head>
 <body lang="en">
 <h1>{{ .Site.Title }}<hr></h1>
+
 <ol id="index">
 <!-- posts -->
 <h2>Essays</h2>

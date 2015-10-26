@@ -5,3 +5,4 @@
 {{ .Hugo.Generator }}
 {{ if (isset .Params "author") }}<meta name="author" content="{{ .Params.author }}">{{ end }}
 {{ if (isset .Params "tags") }}<meta name="keywords" content="{{ delimit .Params.tags "," }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
