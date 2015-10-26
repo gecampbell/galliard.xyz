@@ -80,13 +80,13 @@ of such musical geniuses as
 am basically competent and not skilled. The ukulele has an advantage
 over the guitar in that it's more portable.
 
-In 2010, we moved back to Texas when I took a job with Rackspace
+In 2010, we moved back to Texas when I took a job with 
+[Rackspace](http://www.rackspace.com)
 in San Antonio. I started out as an integration architect on the
 [OpenStack](http://www.openstack.org) team and I later help start
-the Developer Relations
-Group.
+the Developer Relations Group.
 
 In 2015, I moved on to an engineering manager position with
 [Amazon](http://www.amazon.com) and moved to Seattle, WA.
 
-[Click here to see my current r&eacute;sum&eacute;](/resume.html)
+&raquo; [Click here to see my current r&eacute;sum&eacute;](/resume.html)
