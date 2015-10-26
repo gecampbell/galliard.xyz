@@ -6,6 +6,8 @@ category: essays
 comments: true
 ---
 
+> **Note:** The site is now called [clock.fyi](http://clock.fyi).
+
 Your browser's home page should be something that is useful, even when
 viewed repeatedly. In my case, I wanted a page that would display the
 current time: a web clock, if you will.
