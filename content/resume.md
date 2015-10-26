@@ -7,6 +7,8 @@ date: "2015-06-14T08:00:00-07:00"
 background: http://cdn.broadpool.com/yosemite.jpg
 ---
 
+*Updated October 25, 2015*
+
 I am an experienced manager, software engineer, speaker, and architect
 of very large-scale computer systems. In the past, I've had a special
 emphasis on the LAMP (Linux, Apache, MySQL, and PHP) websites, but
@@ -228,7 +230,6 @@ and consulting for this small start-up computer manufacturer.
 
 * B.A., English Language and Literature, <a href="http://www.baylor.edu">Baylor University</a>, Waco, TX (1983).
 * Certified Scrum Master.
-
 
 ### Awards and Honors
 
