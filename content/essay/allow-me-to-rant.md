@@ -14,7 +14,7 @@ We're using [jekyll](http://jekyllrb.com) on some projects at work, so I thought
 The problem, of course, is that it doesn't work:
 
 <img src="http://cdn.broadpool.com/Screen-Shot-2014-05-28-at-9.20.55-AM.png" alt="fail" width="563" height="76" class="center">
-
+<br style="clear:both;">
 <!--more-->
 
 Apparently, Jekyll wants you to install this as root. Or, perhaps, the writer is running on a different system that permits regular users to install new software without privileges. Or something else: who knows? The fact of the matter is, these simple "quick start" instructions are a complete and utter failure. At this point, I have two options:
