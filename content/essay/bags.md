@@ -4,7 +4,7 @@ author: "Glen Campbell"
 category: essays
 date: "2013-07-23T11:14:38-07:00"
 comments: true
-tags: [luggage, laptop, computer, travel]
+tags: [luggage, laptop, computers, travel]
 ---
 Like many people in technology-related careers, I have long searched
 for the perfect carrying bag. Ideally, I would like to have a bag

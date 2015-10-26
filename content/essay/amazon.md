@@ -3,7 +3,7 @@ title: "Amazon"
 author: "Glen Campbell"
 date: "2015-06-14T09:00:00-07:00"
 category: essays
-tags: [software,development,seattle,pnw,retail]
+tags: [software,development,seattle,pnw,retail,biography]
 ---
 
 As those of you who follow me on the various social media platforms are

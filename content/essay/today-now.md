@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2013-03-24T18:40:00-07:00"
 category: essays
 comments: true
+tags: [internet,clock,time,date,website,software]
 ---
 
 > **Note:** The site is now called [clock.fyi](http://clock.fyi).
@@ -26,5 +27,3 @@ so, it is as accurate as the server's clock.
 
 The source code is
 [available on Github](https://github.com/gecampbell/today-now.com).
-
-P.S. It has kittens.
