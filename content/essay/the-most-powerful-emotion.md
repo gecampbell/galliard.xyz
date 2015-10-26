@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-01-14T23:22:16-07:00"
 category: essays
 comments: true
+tags: [beaumont,biography,scouts,integration]
 ---
 
 As [I have mentioned](http://broadpool.com/2012/01/10/begin-at-the-beginning/), my father and brothers were active in the Boy Scouts. When I was very young, I was part of the "Junior Patrol"&mdash;five or six kids who were too young to join the Scouts, but who were sons of Scoutmasters.  We had our own tent, and we went on most of the camping trips with Troop 7 (the Scout troop associated with Fehl Elementary).

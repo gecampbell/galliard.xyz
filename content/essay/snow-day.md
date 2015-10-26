@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-01-18T17:18:02-07:00"
 category: essays
 comments: true
+tags: [biography,beaumont,middle-school,snow]
 ---
 
 One year (it must have been either my 7th or 8th grade year, because I was still in middle school), the Beaumont school systems shut down for three days because of snow&mdash;the only time, in my life, when the school was closed because of snow.

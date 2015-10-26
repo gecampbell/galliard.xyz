@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-07-02T08:39:28-07:00"
 category: essays
 comments: true
+tags: [music,equipment,audio]
 ---
 
 I've been a big fan of Apogee products since I started using the

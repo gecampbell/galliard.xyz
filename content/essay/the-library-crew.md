@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-04-14T08:25:57-07:00"
 category: essays
 comments: true
+tags: [biography,high-school,beaumont,library,nerds,computers]
 ---
 
 My next-older brother Mark finished high school the year before I started. In leaving, he passed along his words of wisdom. Volunteer to work in the library, he said, and you won't regret it. So sometime during the first few weeks of the school year, I dropped by the library, introduced myself to the librarian[^1], and told her that my brother had said that I should volunteer. She laughed, but gave me a job in the back room.

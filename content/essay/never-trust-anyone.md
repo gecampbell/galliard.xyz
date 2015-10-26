@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-01-16T12:19:32-07:00"
 category: essays
 comments: true
+tags: [biography,wedding,siblings,brothers]
 ---
 
 In the early June following my 8th grade year, my brother Ted got married in Houston, Texas. Ted had spent two years at Lon Morris (Junior) College in Longview, Texas, and had met his future wife, Dale, there.

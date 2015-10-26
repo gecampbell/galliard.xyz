@@ -4,6 +4,7 @@ author: "Glen Campbell"
 date: "2012-06-05T20:38:07-07:00"
 category: essays
 comments: true
+tags: [astronomy,photography,venus,space,telescope]
 ---
 
 It was truly a once-in-a-lifetime event, at least for me. I don't
