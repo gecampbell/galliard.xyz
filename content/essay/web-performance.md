@@ -105,7 +105,7 @@ module](http://httpd.apache.org/docs/current/mod/mod_rewrite.html), I'm
 not renaming the file each time; I'm just giving it a different
 URL.
 
-I'm using [Wok](http://glen-campbell.com/essays/wok.html), a static
+I'm using [Wok](/essay/wok.html), a static
 site generator written in Python. Wok allows "hooks"; small pieces
 of code that are executed at specific points in the generation
 pipeline.  The `site.start` hook is called at the beginning, before

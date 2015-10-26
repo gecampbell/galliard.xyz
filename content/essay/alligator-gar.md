@@ -8,7 +8,7 @@ comments: true
 ---
 
 When [we moved to the west end of
-Beaumont](/essays/go-west-young-man.html), our new house on Potter
+Beaumont](/essay/go-west-young-man.html), our new house on Potter
 Dr. backed up to a drainage ditch. Because the land is so flat and
 the area is so prone to heavy rains, Beaumont has dozes of these
 ditches, designed to help move water away in the event of flooding

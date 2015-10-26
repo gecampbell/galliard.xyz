@@ -47,5 +47,5 @@ I have been told that, years later, when they would turn over the football field
 
 [^5]: You could swallow a bug, for example.
 
-[^6]: See the footnote on [this story](/essays/gadgets.html) for details.
+[^6]: See the footnote on [this story](/essay/gadgets.html) for details.
 
