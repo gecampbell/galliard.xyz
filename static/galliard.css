@@ -87,12 +87,16 @@ top: -0.4em;
 }
 sub { top: 0.4em; }
 
-ol#index {
+ol#index, ol#tags {
 list-style-type: none;
 padding: 0;
 margin: 0;
 font-size: 16pt;
 line-height: 24pt;
+}
+ol#tags li {
+display: inline;
+margin-right: 1em;
 }
 a:visited:before {
 content: "\2713 ";

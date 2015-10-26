@@ -36,6 +36,14 @@
 </p>
 {{ end }}
 
+{{ if .Params.listtags }}
+<ol id="tags">
+{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+<li><a href="/tags/{{ $name | urlize }}.html">{{ $name }}</a></li>
+{{ end }}
+</ol>
+{{ end }}
+
 {{ partial "footer.html" . }}
 </body>
 </html>
