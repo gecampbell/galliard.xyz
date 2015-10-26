@@ -17,7 +17,7 @@ that lasts to this day. My father was a technician at the local
 Goodyear Beaumont Chemical plant, a business at which I worked for
 two hot summers after high school, thus utterly cementing my desire
 to flee the area at the first available opportunity. From him I
-inherited a [love of gadgets](http://glencampbell.co/essays/gadgets.html)
+inherited a [love of gadgets](/essays/gadgets.html)
 but not his mechanical skills.
 
 Growing up in Beaumont, I was introduced to some of the beautiful
@@ -31,7 +31,7 @@ be eternally grateful for the experience, though I may not have
 shown my appreciation at the time.
 
 In Beaumont, too, [I was introduced to
-music](http://glencampbell.co/essays/classical-music.html). I
+music](/essays/classical-music.html). I
 played drums in the band; more importantly, I learned to write music
 and was encouraged by my band and orchestra directors. My high
 school orchestra (Forest Park, now called West Brook) won Texas
