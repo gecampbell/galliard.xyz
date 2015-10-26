@@ -3,7 +3,16 @@ date = "2015-09-20T10:00:30-07:00"
 title = "Glen Campbell"
 location = "Seattle, Washington (USA)"
 +++
-
+<div class="sidebar">
+<ul>
+<strong>Links</strong>
+<li><a href="http://500px.glenc.xyz">500px</a></li>
+<li><a href="http://flickr.glenc.xyz">Flickr</a></li>
+<li><a href="http://fb.glenc.xyz">Facebook</a></li>
+<li><a href="http://tw.glenc.xyz">Twitter</a></li>
+<li><a href="http://git.glenc.xyz">Github</a></li>
+</ul>
+</div>
 I was born in 1961 the fetid swamps of southeast Texas, in the city
 of Beaumont, near the Big Thicket, in what is locally referred to
 as The Golden Triangle (the three points of which are Beaumont,
