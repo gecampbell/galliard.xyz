@@ -6,6 +6,10 @@ category: essays
 tags: [wok, python, markdown, static]
 comments: true
 ---
+
+> **Note:** This essay is kept for historical reasons. I've moved the
+  site from Wok to [Hugo](http://gohugo.io).
+  
 This site is built using the [Wok](http://wok.mythmon.com) static website
 generator. The source for it is mostly plain text files in
 [Markdown](http://daringfireball.net/projects/markdown/) format, and it is generated and then synced to the server.
