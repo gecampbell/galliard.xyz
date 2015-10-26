@@ -4,7 +4,7 @@ author: "Glen Campbell"
 category: about
 date: "2013-03-01T12:00:00-07:00"
 background: http://ppcdn.500px.org/73879337/0582f875f2e69822557b5ff4c4ffba0fcd881002/2048.jpg
-comments: False
+draft: true
 ---
 Welcome to The Maynard. We look forward to having you visit this year. Please take note of the following information so that we can all have a great time. It's an honor to be permitted to use this grand old property, and we have a responsibility to take care of it so that others can enjoy it.
 
