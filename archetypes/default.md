@@ -1,4 +1,6 @@
-+++
-author = "Your Name"
-tags = ["essay","other"]
-+++
+---
+title: "YourTitleHere"
+author: "Glen Campbell"
+tags: [essay,other]
+draft: false
+---

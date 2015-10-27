@@ -6,6 +6,7 @@ location = "Seattle, Washington (USA)"
 <div class="sidebar">
 <ul>
 <strong>Links</strong>
+<li><a href="http://broadpool.photography">My photography</a></li>
 <li><a href="http://500px.glenc.xyz">500px</a></li>
 <li><a href="http://flickr.glenc.xyz">Flickr</a></li>
 <li><a href="http://fb.glenc.xyz">Facebook</a></li>
