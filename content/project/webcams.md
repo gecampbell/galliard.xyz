@@ -15,4 +15,4 @@ I have a couple of web cams installed:
 
 ## Back
 
-<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/6zAzQc?autoplay=1" ></iframe>
+<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/6zAzQc" ></iframe>
