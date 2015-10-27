@@ -26,4 +26,4 @@ the appearance, and though the time only updates every 20 seconds or
 so, it is as accurate as the server's clock.
 
 The source code is
-[available on Github](https://github.com/gecampbell/today-now.com).
+[available on Github](https://github.com/gecampbell/clock.fyi).

@@ -1,2 +1,16 @@
-k6gec: "Ham Radio"
-podcast: "On Garner Road"
+k6gec: 
+    title: "Ham Radio"
+    menu: "K6GEC"
+    description: "These are a number of posts related to amateur (\"ham\") radio. Since they are probably not of general interest, I keep them in a separate section here. K6GEC is my FCC-issued callsign."
+podcast: 
+    title: "On Garner Road"
+    menu: "Podcast"
+    description: "A few years ago, I operated an infrequent podcast wherein I interviewed interesting and unusual people on the Internet. They are archived here for all to see."
+essay: 
+    title: "Essays"
+    menu: "Essays"
+    description: "A collection of essays, both serious and profane, on numerous subjects. Most of what I write is for memory, and is probably not very interesting to anyone except myself."
+project:
+    title: "Projects"
+    menu: "Projects"
+    description: "Various websites and software that I've written and deployed. Nearly all of this is open-source, and most of it is available on Github."
