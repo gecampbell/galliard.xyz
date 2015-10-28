@@ -11,6 +11,6 @@ essay:
     menu: "Essays"
     description: "A collection of essays, both serious and profane, on numerous subjects. Most of what I write is for memory, and is probably not very interesting to anyone except myself."
 project:
-    title: "Projects"
+    title: "Software, Web Projects"
     menu: "Projects"
     description: "Various websites and software that I've written and deployed. Nearly all of this is open-source, and most of it is available on Github."
