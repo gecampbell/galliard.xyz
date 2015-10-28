@@ -106,8 +106,9 @@ content: "\2713 ";
 }
 p#info {
 font-style: italic;
-margin-top: 2em;
+padding-top: 2em;
 font-size: smaller;
+clear: both;
 }
 .sidebar {
 font-size: smaller;
