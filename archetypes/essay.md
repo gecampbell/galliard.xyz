@@ -1,6 +1,7 @@
 ---
 title: "YourTitleHere"
 author: "Glen Campbell"
-tags: [other]
+location: "Lynnwood, WA (USA)"
+tags: [essay,other]
 draft: false
 ---
