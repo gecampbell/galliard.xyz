@@ -2,6 +2,7 @@
 title: "That old house"
 author: "Glen Campbell"
 date: "2015-09-17T13:30:00-07:00"
+location: "Seattle, WA"
 category: essays
 tags: [home,house,san antonio,texas,moving,dog,love,cow,deer,nature]
 published: true
