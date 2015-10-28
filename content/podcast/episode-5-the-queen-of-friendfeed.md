@@ -3,6 +3,7 @@ title: "Episode 5, The Queen of FriendFeed"
 author: "Glen Campbell"
 date: "2010-04-15T06:00:00-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/05-episode-5-the-queen-of-friendfeed.mp3
 ---
 

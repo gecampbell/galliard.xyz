@@ -3,6 +3,7 @@ title: "Episode 2, John Piercy"
 author: "Glen Campbell"
 date: "2010-03-25T06:00:00-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/02-episode-2-john-piercy.mp3
 ---
 

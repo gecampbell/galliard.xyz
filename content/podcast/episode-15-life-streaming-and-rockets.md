@@ -2,6 +2,7 @@
 title: "Episode 15, Life-streaming and rockets"
 author: "Glen Campbell"
 date: "2010-09-14T09:30:11-07:00"
+location: "Morgan Hill, CA"
 category: podcasts
 audio: http://cdn.broadpool.com/15-episode-15-mark-krynsky.mp3
 ---

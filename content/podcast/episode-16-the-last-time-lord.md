@@ -3,6 +3,7 @@ title: "Episode 16, The Last Time Lord"
 author: "Glen Campbell"
 date: "2010-09-21T07:15:28-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/16-episode-16-the-last-time-lord.mp3
 ---
 

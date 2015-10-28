@@ -3,6 +3,7 @@ title: "Episode 18, The Critic"
 author: "Glen Campbell"
 date: "2010-10-05T07:02:23-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/18-episode-18-the-critic.mp3
 ---
 

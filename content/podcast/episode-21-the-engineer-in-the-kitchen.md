@@ -3,6 +3,7 @@ title: "Episode 21, the Engineer in the kitchen"
 author: "Glen Campbell"
 date: "2010-10-27T07:13:01-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/21-episode-21-the-engineer-in-the-kitchen.mp3
 ---
 

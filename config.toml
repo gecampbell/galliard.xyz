@@ -2,9 +2,10 @@ baseurl = "http://galliard.xyz/"
 languageCode = "en-us"
 title = "Galliard"
 uglyURLS = true
+copyright = "2009-2015"
 
 [permalinks]
-post = "/post/:year/:month/:filename.html"
+essay = "/essay/:year/:month/:filename.html"
 project = "/project/:filename.html"
 author = "/author/:title.html"
 

@@ -2,6 +2,7 @@
 title: "Episode 11, Memorial Day Special"
 author: "Glen Campbell"
 date: "2010-05-31T08:00:29-07:00"
+location: "Beaumont, TX"
 category: podcasts
 audio: http://cdn.broadpool.com/11-episode-11-memorial-day-2010.mp3
 ---

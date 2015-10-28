@@ -3,6 +3,7 @@ title: "Episode 9, What the Warner Brothers Taught Me"
 author: "Glen Campbell"
 date: "2010-05-13T08:00:49-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/09-episode-9-what-the-warner-brothers-taught-me.mp3
 ---
 

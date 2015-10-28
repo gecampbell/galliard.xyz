@@ -3,6 +3,7 @@ title: "Episode 12, Father of Twins"
 author: "Glen Campbell"
 date: "2010-06-30T08:02:39-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/12-episode-12-father-of-twins.mp3
 ---
 

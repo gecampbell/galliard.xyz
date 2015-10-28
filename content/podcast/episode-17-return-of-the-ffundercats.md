@@ -3,6 +3,7 @@ title: "Episode 17, Return of the FFundercats"
 author: "Glen Campbell"
 date: "2010-09-28T06:51:24-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/17-episode-17-return-of-the-ffundercats.mp3
 ---
 

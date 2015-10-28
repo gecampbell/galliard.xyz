@@ -3,6 +3,7 @@ title: "Episode 4, Sarah Vela"
 author: "Glen Campbell"
 date: "2010-04-08T06:00:00-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/04-episode-4-sarah-vela.mp3
 ---
 

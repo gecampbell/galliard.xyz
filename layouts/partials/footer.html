@@ -1,5 +1,10 @@
 <footer>
-&copy;2015 Glen Campbell.
+{{ if isset .Params "author" }}
+  &copy;{{ .Date.Format "2006" }} 
+  <a href="{{ index .Site.Data.authlinks .Params.author }}">{{ .Params.author }}</a>.
+{{ else }}
+  &copy;{{ .Site.Copyright }} Glen Campbell.
+{{ end }}
 All rights reserved.
 <span class="right-menu">
 <a href="/tags.html" title="Tags">Tags</a>

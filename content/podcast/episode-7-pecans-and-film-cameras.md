@@ -3,6 +3,7 @@ title: "Episode 7, Pecans and Film Cameras"
 author: "Glen Campbell"
 date: "2010-04-29T06:00:04-07:00"
 category: podcasts
+location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/07-episode-7-pecans-and-film-cameras.mp3
 ---
 
