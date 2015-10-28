@@ -119,6 +119,11 @@ margin-bottom: 1em;
 line-height: 150%;
 float: right;
 }
+.sidebar a:hover {
+background: white;
+text-decoration: none;
+color: black;
+}
 .sidebar ul {
 list-style-type: none;
 padding: 0;

@@ -4,6 +4,9 @@ title = "Galliard"
 uglyURLS = true
 copyright = "2009-2015"
 
+[blackfriday]
+fractions = false
+
 [permalinks]
 essay = "/essay/:year/:month/:filename.html"
 project = "/project/:filename.html"
