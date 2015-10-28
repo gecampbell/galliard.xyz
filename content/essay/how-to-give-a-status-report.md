@@ -3,7 +3,7 @@ title: "How to give a status report"
 author: "Glen Campbell"
 date: "2009-09-18T08:28:19-07:00"
 category: essays
-tags: [management, communication, status, howto]
+tags: [management, communication, status, howto, work]
 comments: true
 ---
 If you're anything like me, you work in a corporation or organization, and you work for someone else. Usually, that person also works for someone else. In any decent organization, two potentially conflicting things should occur:

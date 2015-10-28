@@ -3,7 +3,7 @@ title: "Doing It Right"
 author: "Glen Campbell"
 category: essays
 date: "2013-07-22T12:00:00-07:00"
-tags: [software,development,technical debt]
+tags: [software,development,technical debt,work]
 comments: true
 ---
 Last week, I attended a meeting with many of my peers where one of the other managers expressed frustration at having to (re)build a configuration management and deployment system for each new project.  Why don't we just do this once and be done with it? she asked.

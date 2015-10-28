@@ -3,7 +3,7 @@ title: "Sacred Spaces"
 author: "Glen Campbell"
 category: essays
 date: "2013-04-16T14:00:00-07:00"
-tags: [software,development,workspaces]
+tags: [software,development,workspaces,work]
 comments: true
 ---
 Every organization has its "sacred spaces," those physical locations that help contain the identity of the organization. For decades now, for example, Silicon Valley prided itself on the "open" culture, represented by cubicles that even the senior management shared. When I worked for [Yahoo!](http://www.yahoo.com), for example, the CEO had a cubicle (he or she also had a private office, but we weren't supposed to know about that). This meant that the CEO was "one of us" and was supposedly approachable.

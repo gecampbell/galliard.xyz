@@ -2,7 +2,7 @@
 title: "The management transition"
 author: "Glen Campbell"
 category: essays
-tags: [management, focus, development, software]
+tags: [management, focus, development, software, work]
 comments: true
 date: "2013-04-25T08:00:00-07:00"
 ---
