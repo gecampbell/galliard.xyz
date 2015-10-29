@@ -13,13 +13,13 @@ I never noticed my weight until junior high school.
 Until that point, I was just a big kid, and this was an advantage
 when I tried out for Little League baseball or play football. 
 
-In junior high, however, we had to "suit up" for PE, aka gym class. 
-The first day of class, we had to go to the locker room,
-take off all our clothes, and put on the supplied jockstraps and gray
-woolen gym shorts. For the first time in my life, someone pointed
-at the little rolls of fat around by belly and laughed. Until that
-second, I had no idea that I was anything other than a 
-perfectly normal kid. 
+In junior high, however, we had to "suit up" for <abbr title="Physical
+Education">PE</abbr>, aka gym class.  The first day of class, we
+had to go to the locker room, take off all our clothes, and put on
+the supplied jockstraps and gray woolen gym shorts. For the first
+time in my life, someone pointed at the little rolls of fat around
+by belly and laughed. Until that second, I had no idea that I was
+anything other than a perfectly normal kid.
 
 > *Disclaimer:* this is not medical advice, and I'm not advocating for
 > any particular lifestyle, exercise, or medical treatment. 
