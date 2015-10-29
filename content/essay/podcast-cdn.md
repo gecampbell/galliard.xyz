@@ -3,7 +3,7 @@ title: "Using Cloud Files CDN for podcasting"
 author: "Glen Campbell"
 category: essays
 date: "2013-03-22T10:00:02-07:00"
-tags: [music, cloud, audio, cdn, swift, openstack, php]
+tags: [music, cloud, audio, cdn, swift, openstack, php, github]
 draft: true
 ---
 While I've been rebuilding this site[^1], I've gathered together

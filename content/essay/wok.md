@@ -3,7 +3,7 @@ title: "Working with Wok"
 author: "Glen Campbell"
 date: "2013-03-21T07:45:00-07:00"
 category: essays
-tags: [wok, python, markdown, static]
+tags: [wok, python, markdown, static, github]
 comments: true
 ---
 

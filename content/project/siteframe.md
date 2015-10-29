@@ -3,7 +3,7 @@ title: "Siteframe"
 author: "Glen Campbell"
 date: "2011-12-27T21:45:20-07:00"
 category: essays
-tags: [siteframe, photography, contax]
+tags: [siteframe, photography, contax, github]
 comments: true
 ---
 

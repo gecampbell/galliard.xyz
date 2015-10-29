@@ -3,7 +3,7 @@ title: "Understanding the Keystone Service Catalog"
 author: "Glen Campbell"
 date: "2012-06-04T14:22:06-07:00"
 category: essays
-tags: [openstack, keystone, identity, json]
+tags: [openstack, keystone, identity, json, github]
 gist: true
 comments: true
 ---

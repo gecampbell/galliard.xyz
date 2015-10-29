@@ -3,7 +3,7 @@ title: "I accidentally my servers"
 author: "Glen Campbell"
 date: "2013-03-04T11:14:46-07:00"
 category: essays
-tags: [cloud, backup, stupidity]
+tags: [cloud, backup, stupidity, github]
 comments: true
 ---
 As you long-term readers of this blog know (both of you), I work for the [Rackspace Developer Relations Group](http://developer.rackspace.com). I wrote the [php-opencloud](http://php-opencloud.com) language bindings that are used in the Rackspace Cloud SDK for PHP. As part of this development process, I create an awful lot of cloud objects: servers, blog storage volumes, virtual networks, load balancers, etc. So one of my steps is a script called [`cleanup.php`](https://github.com/rackspace/php-opencloud/blob/master/samples/cleanup.php) that deletes _everything_ in my cloud account. And I do mean _everything_: every server, every modicum of storage, every load balancer: EVERYTHING.

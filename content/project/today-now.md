@@ -4,7 +4,7 @@ author: "Glen Campbell"
 date: "2013-03-24T18:40:00-07:00"
 category: essays
 comments: true
-tags: [internet,clock,time,date,website,software]
+tags: [internet,clock,time,date,website,software,github]
 ---
 
 > **Note:** The site is now called [clock.fyi](http://clock.fyi).

@@ -3,7 +3,7 @@ title: "Programmable DNS"
 author: "Glen Campbell"
 date: "2013-03-05T11:59:38-07:00"
 category: essays
-tags: [php, openstack, php-opencloud, dns]
+tags: [php, openstack, php-opencloud, dns, github]
 gist: true
 comments: true
 ---
