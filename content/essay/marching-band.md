@@ -38,14 +38,9 @@ Marching, for the first few yards, wasn't actually that bad. At some point, howe
 I have been told that, years later, when they would turn over the football field each spring, they were still discovering lost shoes, socks, mouthpieces, drumsticks, and trombone slides(!) embedded in the field. I can only imagine a team of archaeologists a few thousand years from now trying to determine what weird religious rite took place on that site.
 
 [^1]: Torrentially. If you haven't lived in Southeast Texas, you should be grateful.
-
 [^2]: I think that they didn't want two freshmen on the bass drum because the bass drum is somewhat critical to setting the tempo when marching, and because they didn't trust freshmen, but I don't know this for certain.
-
 [^3]: An irrelevant aside: if you'd like to hear what this sounds like, go to [Spotify](http://www.spotify.com) and search for "The Young Lions." You should find an album entitled "Music From The Films Of Marlon Brando" (he was in the movie, "The Young Lions").  Click on the "Superman - Main Theme" link and _not_ "The Young Lions" link; the two tracks are mislabeled and reversed.
-
 [^4]: Ok, they may have actually been invented by then, but they certainly weren't common.
-
 [^5]: You could swallow a bug, for example.
-
-[^6]: See the footnote on [this story](/essay/gadgets.html) for details.
+[^6]: See the footnote on [this story](/essay/2012/01/gadgets.html) for details.
 

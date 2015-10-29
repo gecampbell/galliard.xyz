@@ -88,10 +88,10 @@ about 420lbs (which I jokingly referred to as
 When we moved to Texas, we got a new, larger, softer bed than we
 had ever had before.
 [The effect on my life was amazing, as I've written about 
-before](/essay/a-good-nights-sleep.html).
+before](/essay/2011/04/a-good-nights-sleep.html).
 
 In 2011, [my brother Mark unexpectedly
-died](/essay/goodbye-bro.html) 
+died](/essay/2011/03/goodbye-bro.html) 
 of an aortic aneurysm. Doctors recommended that I and my
 remaining brothers get checked out, in case the condition was
 genetic. So I went off to the doctor for an ultrasound. 
@@ -139,7 +139,7 @@ Since December 2014 (when I weighed 360 lbs),
 I've lost a bit more than 100 lbs; last week, 
 my weight was 254 lbs (fully clothed; at home, I typically don't 
 wear clothes when weighing in). Coupled with a 
-[move to Seattle](/essay/amazon.html), 
+[move to Seattle](/essay/2015/06/amazon.html), 
 I've been walking regularly, going to the gym, and working 
 out at home with kettlebells. 
 
