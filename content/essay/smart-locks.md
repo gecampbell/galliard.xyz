@@ -11,6 +11,7 @@ As we're preparing to move into a new house soon, I've been looking into
 several that seem to be well-known in the industry. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/darwinbell/688068169/in/photolist-23NwGi-p4xhXr-pot5Bm-q2tcea-cE6PS-abxBej-aarjox-4THT2X-4Fwo5w-har8Zw-7PQpaZ-bAUx5j-ak2q9v-9uKVDe-4xqJnT-pNfQ2V-4w9csh-dFVZx5-e6k5Ak-fEQbRx-8oQ1nH-8r2CVR-pAJBqx-dG6neS-SoX26-9oNPZn-mgjU2U-azPbgb-rbCTk1-oFMMB2-72xiQ7-6aRr8S-X54YR-mvZV7g-xAAwCr-9MD5JS-cEPn4G-9PhLeX-aPr4CB-bn1aZv-bD1SrM-rHGUvU-4XpCsF-dfJH2y-9TL2A2-kDM3G2-55Gdmp-4jh6xz-9yZsf4-8H3hcn" title="geometrically locked"><img src="https://farm2.staticflickr.com/1024/688068169_71a5b46f1e_n.jpg" width="320" height="232" alt="geometrically locked" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 A "smart lock" replaces (or supplements) your deadbolt and allows you to 
 open your door via a Bluetooth connection. Nearly all of them let you
 lock or unlock your door from an iOS or Android phone, and some of them

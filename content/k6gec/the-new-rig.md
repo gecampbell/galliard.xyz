@@ -14,12 +14,13 @@ He drives a 2004 Jeep Wrangler (Willys edition), so we spent about six hours aft
 
 <!--more-->
 
-<a href="https://www.flickr.com/photos/gecampbell/14735082340" title="IMG_0617.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3839/14735082340_05a30fe205_n.jpg" width="320" height="240" alt="IMG_0617.jpg"></a>
+<a href="https://www.flickr.com/photos/gecampbell/14735082340" title="IMG_0617.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3839/14735082340_05a30fe205_n.jpg" width="320" height="240" alt="IMG_0617.jpg" class="pull-right"></a>
 The hardest part was figuring out where to put it. A lot of Googling helped us find some videos about taking out the center console on the Jeep; once we did that, it was a pretty simple matter to get the mount on the bottom, right in front of the stick shift (though it still has about 1.5" of clearance).
 
 The mount lets us adjust the tilt of the unit, and has plenty of clearance behind it for the cables and connectors. In addition, the heat sink is on the bottom, and this arrangement ensures that it's got plenty of ventilation.
 
-<a href="https://www.flickr.com/photos/gecampbell/14735089319" title="IMG_0618.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3866/14735089319_77621e7ef4_n.jpg" width="320" height="240" alt="IMG_0618.jpg"></a>
+<a href="https://www.flickr.com/photos/gecampbell/14735089319" title="IMG_0618.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3866/14735089319_77621e7ef4_n.jpg" width="320" height="240" alt="IMG_0618.jpg" class="pull-left"></a>
+
 Once we got it mounted we found a hole through the firewall on the driver side and removed the rubber plug. We pulled the power cables through and tied them directly to the battery. We tied everything down with cable ties and made it all clean and neat.
 
 Finally, we used a through-window mount antenna on the passenger side. Probably not the best choice for an antenna, but the only mounting method that we knew for certain would work.

@@ -6,7 +6,9 @@ category: K6GEC
 tags: [ham radio,amateur radio,radio]
 comments: true
 ---
-<img src="http://cdn.broadpool.com/MFJ-9220-300x233.jpg" alt="MFJ-9220" width="300" height="233" class="alignright size-medium wp-image-46" />It's been an interesting month; I've managed to pass the top two levels of amateur radio exams but I don't really have much equipment except for a 2M/70cm mobile unit and a roof-mounted antenna for the truck. Studying and, more importantly, finances have prevented me from actually getting too involved in the HF bands as I'd like. Here are a few things that I would like to accomplish:
+<img src="http://cdn.broadpool.com/MFJ-9220-300x233.jpg" alt="MFJ-9220" width="300" height="233" class="pull-right size-medium wp-image-46">
+
+It's been an interesting month; I've managed to pass the top two levels of amateur radio exams but I don't really have much equipment except for a 2M/70cm mobile unit and a roof-mounted antenna for the truck. Studying and, more importantly, finances have prevented me from actually getting too involved in the HF bands as I'd like. Here are a few things that I would like to accomplish:
 
 1. My son wants to build a radio, and I would love to do that with him. Any recommendations for good kits?
 2. I would very much like to learn Morse code at an acceptable level. I think it would be very cool to take a tiny CW QRP rig with me as a travel (I travel a lot for work) and then be able to make contacts in a number of new locations. Now that I've passed the Extra exam, this is likely where I'll focus next.

@@ -25,6 +25,7 @@ text-decoration: underline;
 }
 a:active {
 color: red;
+text-decoration: none;
 }
 hr {
 border: 0; 
@@ -78,7 +79,9 @@ font-style: italic;
 margin: 1em 3em 1em 3em;
 }
 article img, article .flickr-embed {
-float: right;
+text-align: center;
+padding-left: auto;
+padding-right: auto;
 }
 article.podcast img {
 float: none;
@@ -119,6 +122,9 @@ margin-bottom: 1em;
 line-height: 150%;
 float: right;
 }
+.sidebar a {
+padding: 1px;
+}
 .sidebar a:hover {
 background: white;
 text-decoration: none;
@@ -146,6 +152,14 @@ padding-right: 2pt;
 .right-menu a.current-section {
 color: black;
 background: #eee;
+}
+.pull-right {
+float: right;
+padding-left: 1em;
+}
+.pull-left {
+float: left;
+padding-right: 1em;
 }
 
 @media print {
