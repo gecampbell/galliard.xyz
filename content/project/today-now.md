@@ -30,4 +30,4 @@ so</s>,[^1] it is as accurate as the <s>server's</s> client's clock.
 The source code is
 [available on Github](https://github.com/gecampbell/clock.fyi).
 
-[^1]: It now updates ever second. 
+[^1]: It now updates every second. 
