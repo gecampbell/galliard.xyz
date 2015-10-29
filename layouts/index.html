@@ -15,12 +15,13 @@ margin-top: 2em;
 <body lang="en">
 <h1>{{ .Site.Title }}<hr></h1>
 
-<ol id="index">
 <!-- posts -->
 <h2>Essays</h2>
+<ol id="index">
 {{ range where .Data.Pages "Section" "essay" }}
   {{ .Render "item"}}
 {{ end }}
+
 <h2>Other</h2>
 <li><a href="/k6gec.html" title="Ham radio posts">{{ index .Site.Data.sections "k6gec" "title" }}</a></li>
 <li><a href="/podcast.html" title="My podcast">{{ index .Site.Data.sections "podcast" "title" }}</a></li>
