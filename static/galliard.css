@@ -102,7 +102,31 @@ line-height: 24pt;
 }
 ol#tags li {
 display: inline;
-margin-right: 1em;
+}
+ol#tags li:after {
+content: ", ";
+}
+ol#tags li:last-child:after {
+content: ".";
+}
+.tags {
+list-style-type: none;
+padding: 0;
+margin: 1em 0;
+font-size: smaller;
+}
+.tags:before {
+content: "Tags: ";
+}
+.tags li {
+display: inline;
+font-style: italic;
+}
+.tags li:after {
+content: ", ";
+}
+.tags li:last-child:after {
+content: "";
 }
 .list {
 -webkit-column-count: 2;
