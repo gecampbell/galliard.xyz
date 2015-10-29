@@ -1,5 +1,5 @@
 ---
-title: "Clock.FYI"
+title: "clock.fyi"
 author: "Glen Campbell"
 date: "2013-03-24T18:40:00-07:00"
 category: essays
