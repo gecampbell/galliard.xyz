@@ -3,7 +3,7 @@ title: "How to give a presentation"
 author: "Glen Campbell"
 date: "2009-10-22T10:17:05-07:00"
 category: essays
-tags: [presenting, keynote, powerpoint, howto, work]
+tags: [presenting, keynote, powerpoint, howto, work, business]
 comments: true
 ---
 You've done the research, gathered the data, created your beautiful

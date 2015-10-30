@@ -3,7 +3,7 @@ title: "How to write a performance review"
 author: "Glen Campbell"
 date: "2010-01-17T16:31:55-07:00"
 category: essays
-tags: [management, annual review, communication, howto, work]
+tags: [management, annual review, communication, howto, work, business]
 comments: true
 ---
 We're in the midst of annual reviews at my company; unlike some

@@ -3,7 +3,7 @@ title: "How to deliver bad news to your boss"
 author: "Glen Campbell"
 date: "2010-09-06T11:23:05-07:00"
 category: essays
-tags: [management, communication, software, development, howto, work]
+tags: [management, communication, software, development, howto, work, business]
 comments: true
 ---
 It's happened to every engineer at least once. You've finished the
