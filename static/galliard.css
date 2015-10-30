@@ -113,20 +113,18 @@ content: ".";
 list-style-type: none;
 padding: 0;
 margin: 1em 0;
-font-size: smaller;
 }
 .tags:before {
-content: "Tags: ";
+content: "Tagged: ";
 }
 .tags li {
 display: inline;
-font-style: italic;
 }
 .tags li:after {
 content: ", ";
 }
 .tags li:last-child:after {
-content: "";
+content: ".";
 }
 .list {
 -webkit-column-count: 2;
@@ -136,7 +134,7 @@ column-count: 2;
 a:visited:before {
 content: "\2713 ";
 }
-p#info {
+.info {
 font-style: italic;
 padding-top: 2em;
 font-size: smaller;

@@ -3,7 +3,7 @@ title: "Begin at the beginning"
 author: "Glen Campbell"
 date: "2012-01-10T20:56:19-07:00"
 category: essays
-tags: [biography, beaumont, school]
+tags: [biography, beaumont, school, garner road, church, vacation]
 comments: true
 ---
 

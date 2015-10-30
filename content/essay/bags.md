@@ -17,7 +17,7 @@ Needless to say, such a device has not been developed yet, so I
 keep trying various luggage-type devices to see how close I can
 get.
 
-<a href="http://www.flickr.com/photos/gecampbell/9349916099/" title="Square Rigger by gecampbell, on Flickr"><img src="http://farm8.staticflickr.com/7395/9349916099_8e1ee05b99_n.jpg" width="320" height="240" alt="Square Rigger"></a>
+<a href="http://www.flickr.com/photos/gecampbell/9349916099/" title="Square Rigger by gecampbell, on Flickr"><img src="http://farm8.staticflickr.com/7395/9349916099_8e1ee05b99_n.jpg" width="320" height="240" alt="Square Rigger" class="pull-right"></a>
 
 This is a [Lands' End](http://www.landsend.com) *Square Rigger*
 attach&eacute; that I acquired around 1989.  At that time in the

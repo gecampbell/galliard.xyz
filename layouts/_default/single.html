@@ -23,7 +23,7 @@
 </article>
 
 {{ if (ne .Section "") }}
-<div id="info">
+<div class="info">
 {{ if (isset .Params "author") }}
 <author><a href="{{ index .Site.Data.authlinks .Params.author }}">{{ .Params.author }}</a></author>
 <br>
@@ -33,7 +33,6 @@
 <br>
 {{ end }}
 <date>{{ .Date.Format "January 2, 2006" }}</date>
-<br>
 <ul class="tags">
 {{ $baseurl := .Site.BaseURL }}
 {{ range .Params.tags }}
