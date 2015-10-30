@@ -16,10 +16,13 @@ and Load">ETL</abbr>) tool.  We had offices in [Bracknell,
 Berkshire](https://goo.gl/maps/Kyg5t4BKkY92), which is just west
 of London, on the train line to Reading.
 
-When I moved to England, there were only 3 of us; myself and one
-other American consultant, and then a senior salesperson who was
-hired by our vice president in Paris. Relocating overseas is quite
-the experience; part exhilarating, part terrifying, and never dull.
+When I moved to England, there were only three of us; myself and
+one other American consultant, and then a senior salesperson who
+was hired by our vice president in Paris. The office grew over time,
+of course, as we hired more local folks and brought some people
+over from the USA on temporary assignments. Relocating overseas is
+quite the experience; part exhilarating, part terrifying, and never
+dull.
 
 Before we made the permanent move, my wife and I went over on a
 "house-hunting trip." This involved 3-4 days of frantic searching
@@ -42,7 +45,7 @@ HRH Queen Elizabeth II was our landlady (though, sadly, all the
 affairs were handled by a property management company).
 
 After moving out of our 1600 square foot home in Austin, Texas, the
-house at #7 Broadpool Cottages seemed time (it was only 1100').
+house at #7 Broadpool Cottages seemed tiny (it was only 1100').
 Downstairs, there was a kitchen, a dining room, a living room, and
 a spare room (sort of an extra bedroom, but we used it as a guest
 room and then as an office). There was also a half bath downstairs,
