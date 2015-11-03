@@ -14,7 +14,7 @@ display: none;
 }
 a {
 text-decoration: none;
-color: blue;
+color: #039;
 }
 a:visited {
 color: #555;
@@ -43,8 +43,9 @@ color: #333;
 text-decoration: none;
 }
 header a:hover, footer a:hover {
-color: black;
+color: #039;
 text-decoration: none;
+border-bottom: 1px dotted #039;
 }
 header hr {
 margin-top: 0;
@@ -68,16 +69,19 @@ margin-top: 2em;
 margin-bottom: .5em;
 }
 article {
-line-height: 23pt;
+line-height: 24pt;
 margin: 2em 0 2em 0;
+clear: both;
 }
 article p {
 margin: 1em 0 1em 0;
 }
 article > p:first-child:first-letter {
 float: left;
-font-size: 56pt;
-color: gray;
+font-size: 50pt;
+height: 48pt;
+line-height: 45pt;
+color: #039;
 padding-right: 3px;
 }
 article blockquote {
