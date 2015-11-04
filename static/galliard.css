@@ -52,13 +52,12 @@ line-height: 18pt;
 margin: 1em 0 0 0;
 }
 header a, header a:visited, footer a, footer a:visited {
-color: #039;
+color: black;
 text-decoration: none;
 }
 header a:hover, footer a:hover {
 color: #039;
 text-decoration: none;
-border-bottom: 1px dotted #039;
 }
 header hr {
 margin-top: 0;
@@ -204,8 +203,7 @@ padding-left: 2pt;
 padding-right: 2pt;
 }
 .right-menu a.current-section {
-background: #039;
-color: white;
+background: #eee;
 }
 .pull-right {
 float: right;
