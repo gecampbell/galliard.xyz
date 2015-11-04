@@ -43,6 +43,12 @@ everything else that's useful or interesting).</p>
         <hr>
     {{ end }}
 {{ end }}
+<h2>Miscellaneous</h2>
+<ol class="index list">
+{{ range where .Data.Pages "Section" "==" "" }}
+{{ .Render "item" }}
+{{ end }}
+</ol>
 </article>
 
 {{ partial "footer.html" . }}
