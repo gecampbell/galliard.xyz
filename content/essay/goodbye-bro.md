@@ -6,7 +6,7 @@ category: essays
 tags: [work, life, family]
 comments: true
 ---
-<a href="http://www.flickr.com/photos/gecampbell/8578140623/" title="Mark by gecampbell, on Flickr"><img src="http://farm9.staticflickr.com/8087/8578140623_5b98ea4478.jpg" width="500" height="374" alt="Mark"></a>
+<a href="http://www.flickr.com/photos/gecampbell/8578140623/" title="Mark by gecampbell, on Flickr"><img src="http://farm9.staticflickr.com/8087/8578140623_5b98ea4478.jpg" width="500" height="374" alt="Mark" class="pull-right"></a>
 
 We laid my brother Mark to rest this afternoon, in a small, remote cemetery near Dobbin, Texas, under a canopy of oaks a near the graves of assorted Civil War veterans and other notables. An honor guard performed a 21-gun salute; the trumpeter played taps, and the flag was presented to his widow along with the thanks of a grateful nation.
 
@@ -14,7 +14,7 @@ Mark was 54 years old when he collapsed at work and died of an aortic aneurysm; 
 
 What surprised me most, however, was the outpouring of grief and support from his coworkers, customers, and even competitors. I've grown up hearing that, "No one, on his deathbed, regrets that he didn't spend more time at work." But few people, it seems, have so successfully made work a part of his life as my brother Mark. In all honesty, do you think that your customers would mourn your passing? Mark worked for ITT Goulds Pumps, and a huge percentage of the dozens of flowers at his funeral were from his customers and distributors.
 
-<a href="http://www.flickr.com/photos/gecampbell/5371093635/" title="Me'n'my bro by gecampbell, on Flickr"><img src="http://farm6.staticflickr.com/5125/5371093635_d68608285f_n.jpg" width="320" height="240" alt="Me'n'my bro"></a>
+<a href="http://www.flickr.com/photos/gecampbell/5371093635/" title="Me'n'my bro by gecampbell, on Flickr"><img src="http://farm6.staticflickr.com/5125/5371093635_d68608285f_n.jpg" width="320" height="240" alt="Me'n'my bro" class="pull-right"></a>
 
 The last time I saw Mark was, in fact, at a work function; his regional sales team had a meeting in San Antonio, and Mark invited me to join them at a San Antonio Spurs game there. We enjoyed the game, and, when it was over, I offered to shake his hand. He ignored that and hugged me instead, the last time I would see him alive.
 
