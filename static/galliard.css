@@ -27,6 +27,18 @@ a:active {
 color: red;
 text-decoration: none;
 }
+h1 {
+font-size: 64pt;
+line-height: 80%;
+margin-top: 64pt;
+margin-bottom: 64pt;
+}
+h1.home {
+font-size: 96pt;
+color: #039;
+border-bottom: 4px solid silver;
+letter-spacing: -4pt;
+}
 .home h2 a, .home h2 a:visited {
 color: black;
 text-decoration: none;
