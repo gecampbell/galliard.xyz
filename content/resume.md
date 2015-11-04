@@ -2,13 +2,9 @@
 title: "R&eacute;sum&eacute;: Glen Campbell"
 author: "Glen Campbell"
 slug: resume
-tags: [cloud,engineer,data,resume,sql,etl,software,architect]
+tags: [cloud, engineer, data, resume, sql, etl, software, architect, amazon, yahoo, rackspace, openstack, systems analysis, seattle, san antonio, silicon valley]
 date: "2015-06-14T08:00:00-07:00"
-background: http://cdn.broadpool.com/yosemite.jpg
 ---
-
-*Updated October 25, 2015*
-
 I am an experienced manager, software engineer, speaker, and architect
 of very large-scale computer systems. In the past, I've had a special
 emphasis on the LAMP (Linux, Apache, MySQL, and PHP) websites, but
