@@ -45,7 +45,7 @@
 {{ end }}
 
 {{ if .Params.listtags }}
-<ol id="tags">
+<ol class="tags">
 {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 <li><a href="/tags/{{ $name | urlize }}.html">{{ $name }}</a></li>
 {{ end }}

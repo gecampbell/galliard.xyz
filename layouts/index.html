@@ -7,36 +7,43 @@
 <style>
 @import url('/galliard.css');
 h1 {
-line-height: 50%;
+font-size: 36pt;
+line-height: 24pt;
 margin-top: 2em;
+margin-bottom: 0;
 }
 </style>
 </head>
 <body lang="en">
-<h1>{{ .Site.Title }}<hr></h1>
+<h1>{{ .Site.Title }}</h1>
+<hr>
 
-<!-- posts -->
-<h2>Essays</h2>
-<ol id="index">
-{{ range where .Data.Pages "Section" "essay" }}
-  {{ .Render "item"}}
+<article>
+<p>Welcome to my website. This is where I write things that interest me.
+Hopefully, readers might occasionally find it interesting, too.
+I write mostly about things that happen in my life: personal history,
+music, software, travel, photography, and occasional forays into politics
+(though I have to say that politics is a subject that should
+generally be avoided, because it tends to overshadow
+everything else that's useful or interesting).</p>
+<p class="info">
+<author><a href="/author/glen-campbell.html">Glen Campbell</a>
+</author>
+</p>
+{{ range (where .Data.Pages "Section" "!=" "").GroupBy "Section" }}
+    {{ $item := index $.Site.Data.sections .Key }}
+    {{ if $item }}
+        <h2><a href="{{ .Key }}.html">{{ index $item "title" }}</a></h2>
+        <p>{{ index $item "description" }}</p>
+        <ol class="index list">
+        {{ range .Pages }}
+        {{ .Render "item" }}
+        {{ end }}
+        </ol>
+        <hr>
+    {{ end }}
 {{ end }}
-
-<h2>Other</h2>
-<li><a href="/k6gec.html" title="Ham radio posts">{{ index .Site.Data.sections "k6gec" "title" }}</a></li>
-<li><a href="/podcast.html" title="My podcast">{{ index .Site.Data.sections "podcast" "title" }}</a></li>
-<li><a href="/project.html" title="Various projects">{{ index .Site.Data.sections "project" "title" }}</a></li>
-<!-- authors -->
-<h2>Authors</h2>
-{{ range where .Data.Pages.ByTitle "Section" "author" }}
-  {{ .Render "item"}}
-{{ end }}
-<!-- site -->
-<h2>Miscellaneous</h2>
-{{ range where .Data.Pages.ByTitle "Section" "" }}
-  {{ .Render "item"}}
-{{ end }}
-</ol>
+</article>
 
 {{ partial "footer.html" . }}
 </body>

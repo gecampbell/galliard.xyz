@@ -1,7 +1,7 @@
 +++
 date = "2015-09-20T10:00:30-07:00"
 title = "Glen Campbell"
-location = "Seattle, Washington (USA)"
+location = "Lynnwood, Washington (USA)"
 +++
 <div class="sidebar">
 

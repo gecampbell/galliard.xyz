@@ -12,7 +12,7 @@ padding: 0 1em 0 1em;
 div#mti_wfs_colophon img {
 display: none;
 }
-a {
+a, article h2 a, article h2 a:visited {
 text-decoration: none;
 color: #039;
 }
@@ -32,6 +32,7 @@ border: 0;
 height: 1px; 
 background: #333; 
 background-image: linear-gradient(to left, #ccc, #333, #ccc);
+clear: both:
 }
 header {
 font-size: 16pt;
@@ -39,7 +40,7 @@ line-height: 18pt;
 margin: 1em 0 0 0;
 }
 header a, header a:visited, footer a, footer a:visited {
-color: #333;
+color: #039;
 text-decoration: none;
 }
 header a:hover, footer a:hover {
@@ -103,20 +104,20 @@ top: -0.4em;
 }
 sub { top: 0.4em; }
 
-ol#index, ol#tags {
+ol.index, ol.tags {
 list-style-type: none;
 padding: 0;
 margin: 0;
 font-size: 16pt;
 line-height: 24pt;
 }
-ol#tags li {
+ol.tags li {
 display: inline;
 }
-ol#tags li:after {
+ol.tags li:after {
 content: ", ";
 }
-ol#tags li:last-child:after {
+ol.tags li:last-child:after {
 content: ".";
 }
 .tags {
@@ -140,6 +141,10 @@ content: ".";
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
+}
+.summary {
+font-size: smaller;
+font-style: italic;
 }
 a:visited:before {
 content: "\2713 ";
@@ -187,8 +192,8 @@ padding-left: 2pt;
 padding-right: 2pt;
 }
 .right-menu a.current-section {
-color: black;
-background: #eee;
+background: #039;
+color: white;
 }
 .pull-right {
 float: right;

@@ -1,0 +1,10 @@
+<span class="right-menu">
+{{ range $section, $taxonomy := .Site.Sections }}
+  {{ if ne $section "" }}
+    {{ $item := index $.Site.Data.sections $section }}
+    {{ if $item }}
+    <a href="/{{$section}}.html" title="{{index $item "title"}}"{{if eq $.Section $section}} class="current-section"{{end}}>{{index $item "menu"}}</a>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</span>
