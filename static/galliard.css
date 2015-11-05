@@ -29,15 +29,16 @@ text-decoration: none;
 }
 h1 {
 font-size: 64pt;
-line-height: 80%;
+line-height: 120%;
 margin-top: 64pt;
 margin-bottom: 64pt;
 }
 h1.home {
 font-size: 96pt;
+line-height: 90%;
 color: #039;
-border-bottom: 4px solid silver;
 letter-spacing: -4pt;
+margin-bottom: 0;
 }
 .home h2 a, .home h2 a:visited {
 color: black;
@@ -53,9 +54,9 @@ text-decoration: none;
 }
 hr {
 border: 0; 
-height: 1px; 
+height: 2px; 
 background: #333; 
-background-image: linear-gradient(to left, #ccc, #333, #ccc);
+background-image: linear-gradient(to right, #888, #ccc);
 clear: both:
 }
 header {
