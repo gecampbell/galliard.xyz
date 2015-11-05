@@ -148,8 +148,8 @@ list-style-type: none;
 padding: 0;
 margin: 1em 0;
 }
-.tags:before {
-content: "Tagged: ";
+.info .tags:before {
+content: "Tags: ";
 }
 .tags li {
 display: inline;
