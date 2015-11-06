@@ -102,7 +102,8 @@ over the guitar in that it's more portable.
 In 2010, we moved back to Texas when I took a job with
 [Rackspace](http://www.rackspace.com) in San Antonio. I started out
 as an integration architect on the [OpenStack](http://www.openstack.org)
-team and I later help start the Developer Relations Group.
+team and I later help [start the Developer Relations
+Group](/essay/2012/05/developing-for-the-cloud.html).
 
 In 2015, I moved on to an engineering manager position with
 [Amazon](http://www.amazon.com) and moved to Seattle, WA. In October
