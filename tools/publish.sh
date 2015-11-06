@@ -28,7 +28,7 @@ echo ==
 echo Uploading non-HTML files...
 echo ==
 aws s3 sync . s3://galliard.xyz \
-    --exclude 'webfonts' \
+    --exclude 'webfonts/*' \
     --exclude '*.html' \
     --cache-control 'max-age=600' \
     --delete
