@@ -11,6 +11,7 @@ fractions = false
 essay = "/essay/:year/:month/:filename.html"
 project = "/project/:filename.html"
 author = "/author/:title.html"
+photo = "/photo/:year/:month/:filename.html"
 
 [params]
 Description = "Fresh content and links served occasionally"
