@@ -14,3 +14,7 @@ k6gec:
     title: "Ham Radio"
     menu: "K6GEC"
     description: "These are a number of posts related to amateur (\"ham\") radio. Since they are probably not of general interest, I keep them in a separate section here. (K6GEC is my FCC-issued callsign.)"
+photo:
+    title: "Photography"
+    menu: "Photos"
+    description: "I'll post most of my photographs elsewhere, but I've decided to use this space to provide a bit more background and information than is available on those other sites."
