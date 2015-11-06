@@ -1,5 +1,47 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3121213, 2015-11-06T14:15:12-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GalliardPro-Bold by ITC
+ * URL: http://www.myfonts.com/fonts/itc/galliard/pro-bold/
+ * 
+ * Webfont: GalliardPro-BoldItalic by ITC
+ * URL: http://www.myfonts.com/fonts/itc/galliard/pro-bold-italic/
+ * 
+ * Webfont: GalliardPro-Italic by ITC
+ * URL: http://www.myfonts.com/fonts/itc/galliard/pro-italic/
+ * 
+ * Webfont: GalliardPro-Roman by ITC
+ * URL: http://www.myfonts.com/fonts/itc/galliard/pro-roman/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3121213
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright 1986, 1987, 1992, 2001 Adobe Systems Incorporated.  Typeface designs Copyright 2006 International Typeface Corporation. All rights reserved.
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2fa04e");
+
+@font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: normal;src: url('webfonts/2FA04E_0_0.eot');src: url('webfonts/2FA04E_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_0_0.woff2') format('woff2'),url('webfonts/2FA04E_0_0.woff') format('woff'),url('webfonts/2FA04E_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: italic;src: url('webfonts/2FA04E_1_0.eot');src: url('webfonts/2FA04E_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_1_0.woff2') format('woff2'),url('webfonts/2FA04E_1_0.woff') format('woff'),url('webfonts/2FA04E_1_0.ttf') format('truetype');}
+
+@font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: italic;src: url('webfonts/2FA04E_2_0.eot');src: url('webfonts/2FA04E_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_2_0.woff2') format('woff2'),url('webfonts/2FA04E_2_0.woff') format('woff'),url('webfonts/2FA04E_2_0.ttf') format('truetype');}
+
+@font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: normal;src: url('webfonts/2FA04E_3_0.eot');src: url('webfonts/2FA04E_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_3_0.woff2') format('woff2'),url('webfonts/2FA04E_3_0.woff') format('woff'),url('webfonts/2FA04E_3_0.ttf') format('truetype');}
+ 
 body {
-font-family:'ITC Galliard W01 Roman';
+font-family: ITCGalliard;
 background: white;
 color: black;
 max-width: 40em;
@@ -28,10 +70,11 @@ color: red;
 text-decoration: none;
 }
 h1 {
-font-size: 64pt;
+font-size: 32pt;
 line-height: 120%;
 margin-top: 64pt;
 margin-bottom: 64pt;
+font-weight: normal;
 }
 h1.home {
 font-size: 72pt;
@@ -86,10 +129,6 @@ color: #ddd;
 }
 footer a, footer a:visited {
 color: #bbb;
-}
-h1 {
-font-weight: normal;
-font-size: 36pt;
 }
 h2, h3, h4, h5, h6 {
 margin-top: 2em;

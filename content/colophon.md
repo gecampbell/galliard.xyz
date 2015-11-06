@@ -17,6 +17,8 @@ and submit a pull request.)
 
 The typeface is, of course, 
 [Galliard](/about.html).
+It's available via 
+[MyFonts.com](https://www.myfonts.com/fonts/itc/galliard/buy.html).
 
 The static site is hosted on 
 [Amazon S3](https://aws.amazon.com/s3/)
