@@ -27,19 +27,11 @@
  * 
  * © 2015 MyFonts Inc
 */
-
-
-/* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/2fa04e");
-
 @font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: normal;src: url('webfonts/2FA04E_0_0.eot');src: url('webfonts/2FA04E_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_0_0.woff2') format('woff2'),url('webfonts/2FA04E_0_0.woff') format('woff'),url('webfonts/2FA04E_0_0.ttf') format('truetype');}
-
 @font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: italic;src: url('webfonts/2FA04E_1_0.eot');src: url('webfonts/2FA04E_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_1_0.woff2') format('woff2'),url('webfonts/2FA04E_1_0.woff') format('woff'),url('webfonts/2FA04E_1_0.ttf') format('truetype');}
-
 @font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: italic;src: url('webfonts/2FA04E_2_0.eot');src: url('webfonts/2FA04E_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_2_0.woff2') format('woff2'),url('webfonts/2FA04E_2_0.woff') format('woff'),url('webfonts/2FA04E_2_0.ttf') format('truetype');}
-
 @font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: normal;src: url('webfonts/2FA04E_3_0.eot');src: url('webfonts/2FA04E_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_3_0.woff2') format('woff2'),url('webfonts/2FA04E_3_0.woff') format('woff'),url('webfonts/2FA04E_3_0.ttf') format('truetype');}
- 
 body {
 font-family: ITCGalliard;
 background: white;
@@ -49,10 +41,6 @@ font-size: 13pt;
 margin: auto;
 padding: 0 1em 0 1em;
 -webkit-text-size-adjust: 100%;
-}
-/** gets rid of annoying fond advert **/
-div#mti_wfs_colophon img {
-display: none;
 }
 a {
 text-decoration: none;
@@ -68,6 +56,10 @@ text-decoration: underline;
 a:active {
 color: red;
 text-decoration: none;
+}
+h2, h3, h4, h5, h6 {
+margin-top: 2em;
+margin-bottom: .5em;
 }
 h1 {
 font-size: 32pt;
@@ -129,10 +121,6 @@ color: #ddd;
 }
 footer a, footer a:visited {
 color: #bbb;
-}
-h2, h3, h4, h5, h6 {
-margin-top: 2em;
-margin-bottom: .5em;
 }
 article {
 line-height: 24pt;
@@ -242,7 +230,6 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 }
-
 .footnotes {
 font-size: smaller;
 line-height: 120%;
@@ -267,7 +254,6 @@ padding-left: 1em;
 float: left;
 padding-right: 1em;
 }
-
 @media print {
   .right-menu {
   display: none;
