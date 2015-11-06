@@ -1,0 +1,26 @@
+<RoutingRules>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>post/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyPrefixWith>essay/</ReplaceKeyPrefixWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>essays/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyPrefixWith>essay/</ReplaceKeyPrefixWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>podcasts/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyPrefixWith>podcast/</ReplaceKeyPrefixWith>
+        </Redirect>
+    </RoutingRule>
+</RoutingRules>
