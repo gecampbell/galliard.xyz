@@ -34,10 +34,12 @@ margin-top: 64pt;
 margin-bottom: 64pt;
 }
 h1.home {
-font-size: 96pt;
+font-size: 72pt;
+font-size: 10vw;
 line-height: 90%;
 color: #039;
 letter-spacing: -4pt;
+letter-spacing: -.3vw;
 margin-bottom: 0;
 }
 .home h2 a, .home h2 a:visited {
