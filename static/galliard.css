@@ -132,9 +132,9 @@ margin: 1em 0 1em 0;
 }
 article > p:first-child:first-letter {
 float: left;
-font-size: 50pt;
+font-size: 56pt;
 height: 48pt;
-line-height: 45pt;
+line-height: 51pt;
 color: #039;
 padding-right: 3px;
 }
