@@ -3,7 +3,7 @@ author = "Glen Campbell"
 date = "2015-11-09T10:49:23-08:00"
 draft = false
 location = "Lynnwood, WA (USA)"
-tags = ["recipe", "bread", "food", "cooking", "baking"]
+tags = ["recipes", "bread", "food", "cooking", "baking"]
 title = "Soft White Bread"
 +++
 
