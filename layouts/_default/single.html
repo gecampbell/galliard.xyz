@@ -36,7 +36,7 @@
 {{ $baseurl := .Site.BaseURL }}
 {{ if .Params.tags }}
     <ul class="tags">
-    {{ range .Params.tags }}
+    {{ range sort .Params.tags }}
     <li><a href="{{ $baseurl }}tags/{{ . | urlize }}.html">{{ . }}</a></li>
     {{ end }}
     </ul>
