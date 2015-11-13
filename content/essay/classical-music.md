@@ -3,7 +3,7 @@ title: "Classical Music"
 author: "Glen Campbell"
 date: "2012-02-01T11:40:56-07:00"
 category: essays
-tags: [audio, music, biography]
+tags: [audio, music, biography, jazz]
 comments: true
 audio: http://cdn.broadpool.com/channeling-philip-glass.mp3
 ---
