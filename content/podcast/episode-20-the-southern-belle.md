@@ -3,6 +3,7 @@ title: "Episode 20, the Southern Belle"
 author: "Glen Campbell"
 date: "2010-10-19T07:02:40-07:00"
 category: podcasts
+tags: [podcast, internet, people, writing, fiction, silicon valley]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/20-episode-20-the-southern-belle.mp3
 ---

@@ -3,6 +3,7 @@ title: "Episode 1, Mary Carmen"
 author: "Glen Campbell"
 date: "2010-03-20T04:04:51-07:00"
 category: podcasts
+tags: [podcast, internet, people, library, friendfeed]
 location: "Morgan Hill, CA"
 comments: true
 audio: http://cdn.broadpool.com/01-episode-1-mary-carmen-chimato.mp3

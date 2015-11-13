@@ -3,6 +3,7 @@ title: "Episode 6, Do you know Enid Blyton?"
 author: "Glen Campbell"
 date: "2010-04-22T06:00:40-07:00"
 category: podcasts
+tags: [podcast, internet, people, library, enid blyton, canada, british columbia, fiction]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/06-episode-6-who-knows-enid-blyton-.mp3
 ---

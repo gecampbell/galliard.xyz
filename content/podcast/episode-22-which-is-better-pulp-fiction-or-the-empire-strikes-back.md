@@ -3,6 +3,7 @@ title: "Episode 22, Which is better&mdash;Pulp Fiction or The Empire Strikes Bac
 author: "Glen Campbell"
 date: "2010-11-02T07:01:34-07:00"
 location: "Morgan Hill, CA"
+tags: [podcast, internet, people, movies, music, drums]
 category: podcasts
 audio: http://cdn.broadpool.com/22-episode-22-which-is-better-the-empire-strikes-back-or-pulp-fiction-.mp3
 ---

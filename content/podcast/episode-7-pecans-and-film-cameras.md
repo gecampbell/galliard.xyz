@@ -3,8 +3,8 @@ title: "Episode 7, Pecans and Film Cameras"
 author: "Glen Campbell"
 date: "2010-04-29T06:00:04-07:00"
 category: podcasts
+tags: [podcast, internet, people, photography, contax, new mexico, pecans]
 location: "Morgan Hill, CA"
-tags: [photography,camera,new mexico,pecans,contax]
 audio: http://cdn.broadpool.com/07-episode-7-pecans-and-film-cameras.mp3
 ---
 

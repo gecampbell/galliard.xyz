@@ -3,6 +3,7 @@ title: "Episode 19, the Speculator"
 author: "Glen Campbell"
 date: "2010-10-12T07:00:53-07:00"
 category: podcasts
+tags: [podcast, internet, people, fiction, friendfeed]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/19-episode-19-the-speculator.mp3
 ---

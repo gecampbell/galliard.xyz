@@ -3,6 +3,7 @@ title: "Episode 8, Film, Tech, and Whisky"
 author: "Glen Campbell"
 date: "2010-05-06T05:40:09-07:00"
 category: podcasts
+tags: [podcast, internet, people, liquor, whisky]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/08-episode-8-file-tech-and-whisky.mp3
 ---

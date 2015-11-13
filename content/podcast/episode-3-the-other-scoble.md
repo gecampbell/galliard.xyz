@@ -3,6 +3,7 @@ title: "Episode 3, The Other Scoble"
 author: "Glen Campbell"
 date: "2010-04-01T06:00:00-07:00"
 category: podcasts
+tags: [podcast, internet, people, computer, security, social media, friendfeed]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/03-episode-3-alex-scoble.mp3
 ---

@@ -162,7 +162,7 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 font-size: 16pt;
-line-height: 24pt;
+line-height: 28pt;
 }
 ol.tags li {
 display: inline;
@@ -172,6 +172,18 @@ content: ", ";
 }
 ol.tags li:last-child:after {
 content: ".";
+}
+ol.tags .small {
+font-size: 12pt;
+}
+ol.tags .medium {
+font-size: 16pt;
+}
+ol.tags .large {
+font-size: 21pt;
+}
+ol.tags .huge {
+font-size: 28pt;
 }
 .tags {
 list-style-type: none;

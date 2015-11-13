@@ -3,6 +3,7 @@ title: "Episode 10, What do you get when you cross a moose with a unicorn?"
 author: "Glen Campbell"
 date: "2010-05-26T09:00:00-07:00"
 category: podcasts
+tags: [podcast, internet, people, art, washington]
 location: "Morgan Hill, CA"
 audio: http://cdn.broadpool.com/10-episode-10-what-do-you-get-when-you-cross-a-moose-with-a-unicorn-.mp3
 ---
