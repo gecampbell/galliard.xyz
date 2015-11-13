@@ -3,7 +3,7 @@ title: "Life is short"
 author: "Glen Campbell"
 date: "2012-06-24T19:08:44-07:00"
 category: essays
-tags: [music, video]
+tags: [music, video, ukulele, song, youtube]
 comments: true
 ---
 
