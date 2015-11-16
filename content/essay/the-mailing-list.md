@@ -62,7 +62,8 @@ are available for years in the future. If they're not, then I can
 keep my own copies around, and I have complete access to the
 information.
 
-While I am a member of many mailing lists, there are two in particular
+<span class="newthought">While I am a member of many</span>
+mailing lists, there are two in particular
 that are most important to me. The first is the [Tech Breakfast
 list](http://xlerb.email/mailman/listinfo/breakfast); this started
 a few years ago when I was living in Silicon Valley.  A group of

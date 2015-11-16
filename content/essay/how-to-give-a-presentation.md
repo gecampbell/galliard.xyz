@@ -16,7 +16,7 @@ you are, or you can have all your hard work hidden behind a distracting
 facade of blunders and missteps. Here's some of my top tips for
 making sure that the presentation goes smoothly.
 
-### Practice makes perfect
+## Practice makes perfect
 
 Actually, a better phrase is "Practice makes permanent, so always
 practice perfect." It's astonishing to me how often someone will
@@ -36,7 +36,7 @@ the end of your allotted half-hour and there's a crowd of people
 standing outside waiting to use the conference room. You should
 know, within 10%, exactly how long your presentation takes.
 
-### Don't read the fucking slides
+## Don't read the fucking slides
 
 Is there anything more annoying than having someone put up a slide
 that says, "Sales increased in the last quarter," and then to say,
@@ -45,7 +45,7 @@ of fucking idiots who cannot read? If you're going to read the
 fucking slide, then just create a PDF version and email it to
 everyone at the meeting and save us all an hour.
 
-### Use presentation mode
+## Use presentation mode
 
 Every commercially-available presentation software has a mode for
 editing or creating slides, and another one for presenting them.
@@ -55,7 +55,7 @@ kept it in edit mode the whole time, sometimes accidentally moving
 text blocks off the screen while he was attempting to point out
 things on the page.
 
-### Turn off interruptions
+## Turn off interruptions
 
 Yes, I know you use Gtalk and Yahoo! IM and IRC and who knows what,
 but turn them _off_ when you're presenting. You're trying to impress
@@ -68,7 +68,7 @@ that on everyone. Turn off your email notifications. Do you really
 want, "New message: Are you as hot as I am right now?" popping up
 during your presentation to the CFO?
 
-### Don't turn off your screen
+## Don't turn off your screen
 
 Seriously. Most people have their laptops set so that the screen
 will go dark after some minutes of inactivity. It's quite common
@@ -86,7 +86,7 @@ everything will work normally. I'm sure there's a similar utility
 for Windows, or just right-click on the desktop and change the
 screen settings to not automatically dim/turn off the screen.
 
-### Be prepared
+## Be prepared
 
 Finally, make sure you know how to connect your laptop to the
 projector. If they projector uses a VGA connector and your laptop

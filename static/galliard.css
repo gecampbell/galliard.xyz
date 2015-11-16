@@ -57,7 +57,9 @@ a:active {
 color: red;
 text-decoration: none;
 }
-h2, h3, h4, h5, h6 {
+h2, h3 {
+font-weight: normal;
+font-style: italic;
 margin-top: 2em;
 margin-bottom: .5em;
 }
@@ -149,6 +151,11 @@ padding-right: auto;
 }
 article.podcast img {
 float: none;
+}
+article .newthought {
+font-variant: small-caps;
+text-transform: lowercase;
+padding-top: 2em;
 }
 sup, sub {
 vertical-align: baseline;
