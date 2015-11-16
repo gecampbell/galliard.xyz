@@ -3,7 +3,7 @@ author = "Glen Campbell"
 date = "2015-11-06T14:18:05-08:00"
 draft = false
 location = "Lynnwood, WA (USA)"
-tags = ["travel", "USA", "Europe", "Home", "Maps", "Cartography"]
+tags = ["travel", "usa", "europe", "home", "maps", "cartography"]
 title = "Oh, the places you'll go!"
 
 +++
