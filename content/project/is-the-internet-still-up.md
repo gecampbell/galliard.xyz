@@ -11,7 +11,7 @@ I know that you, like me, have often wondered whether or not the
 Internet is still running. Now you need worry no more. I have created
 the Internet status page:
 
-[`http://internet-status.info`](http://internet-status.info)
+<http://internet-status.info>
 
 Simply point your browser to this site, and it will let you know
 if the Internet is still up after running an exhaustive series of
