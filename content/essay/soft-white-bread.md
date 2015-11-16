@@ -19,8 +19,8 @@ to make a full-sized loaf.
 
 ----
 
-* 10 oz hot water
-* 2 teaspoons yeast
+* 10 oz warm water[^1]
+* 2 teaspoons yeast (1 packet)
 * 3 tablespoons sugar
 * 1⁄2 cup vegetable oil
 * 2 teaspoons salt
@@ -33,3 +33,5 @@ The yeast will foam.
 Add remaining ingredients.
 
 Use rapid or basic white cycles. 
+
+[^1]: For dry yeast, the water should be about 110&deg;F. If it's too hot, it will kill the yeast.
