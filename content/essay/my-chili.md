@@ -3,7 +3,7 @@ title: "Texas-Style Slow Cooker Chili"
 author: "Glen Campbell"
 date: "2015-01-14T11:00:00-07:00"
 category: essays
-tags: [food,texas,chili,recipes]
+tags: [food,texas,chili,recipes,cooking]
 ---
 As everyone knows, chili was invented in Texas, probably as a way of consuming
 older, tougher, possibly rotten cuts of meat. By slowly cooking over a long 

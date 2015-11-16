@@ -4,7 +4,7 @@ author: "Glen Campbell"
 slug: mac-n-cheese
 date: "2013-03-21T16:27:00-07:00"
 category: essays
-tags: [macaroni, cheese, alton brown, food, recipes]
+tags: [macaroni, cheese, alton brown, food, recipes, cooking]
 comments: true
 ---
 This is my variation of [Alton Brown's Stovetop Mac'n'Cheese](http://www.foodnetwork.com/recipes/alton-brown/stove-top-mac-n-cheese-recipe/index.html).  I chose to modify his, not because I think I'm a superior chef, but because his recipe used strange volumes of ingredients; for example, his version calls for 10 ounces of cheese, but all the bagged shredded cheese in the grocery store comes in 8 or 12 ounce packages.
