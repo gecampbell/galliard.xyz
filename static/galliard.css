@@ -152,11 +152,17 @@ padding-left: auto;
 padding-right: auto;
 }
 article.podcast img {
-float: none;
+float: right;
+padding-left: 1em;
+}
+article a[href*="flickr.com"] {
+text-shadow: none;
+background: none;
 }
 article .newthought {
 font-variant: small-caps;
 text-transform: lowercase;
+font-size: smaller;
 padding-top: 2em;
 }
 sup, sub {
