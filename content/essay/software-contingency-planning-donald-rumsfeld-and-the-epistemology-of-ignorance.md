@@ -8,7 +8,7 @@ comments: true
 ---
 In February, 2002, Donald Rumsfeld, then Secretary of Defense under George W. Bush, uttered an oft-maligned and usually ridiculed statement in a Department of Defense news briefing:
 
-> Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns -- the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.
+> Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns -- the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones. <footer>Donald Rumsfeld, <cite>DoD Briefing, February 12, 2002</cite></footer>
 
 The language may be convoluted, but it's impeccably true. We can be aware of our own ignorance: the "known unknowns," according to Rumsfeld.
 

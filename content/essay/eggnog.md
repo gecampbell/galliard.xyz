@@ -8,7 +8,8 @@ title = "The Scrivener Eggnog Recipe"
 
 +++
 
-Stolen/borrowed/adapted from Alex Scrivener on FriendFeed:
+Stolen/borrowed/adapted from Alex Scrivener on 
+[FriendFeed](http://isfriendfeeddeadyet.com):
 
 * 4 cups Blended Whiskey (preferably Canadian)
 * 2 cups Brandy

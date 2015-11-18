@@ -2,7 +2,7 @@
 author = "Glen Campbell"
 date = "2015-10-28T13:08:43-07:00"
 draft = false
-tags = ["other","web","technology","hugo","amazon","s3","route53","cloudfront"]
+tags = ["other", "web", "technology", "hugo", "amazon", "s3", "route53", "cloudfront", "perl", "awk", "sed"]
 title = "Colophon"
 
 +++
@@ -19,6 +19,15 @@ The typeface is, of course,
 [Galliard](/about.html).
 It's available via 
 [MyFonts.com](https://www.myfonts.com/fonts/itc/galliard/buy.html).
+
+The style sheet borrows from 
+[Tufte CSS](https://github.com/edwardtufte/tufte-css/),
+a cascading style sheet that attempts to implement some of
+the ideas of Edward Tufte in 
+[The Visual Display of Quantitative Information](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142),
+a profoundly important work in understanding how information is presented.
+Since this site is mostly prose and not data, it does not use all
+of Tufte's ideas, though I venerate them.
 
 The static site is hosted on 
 [Amazon S3](https://aws.amazon.com/s3/)

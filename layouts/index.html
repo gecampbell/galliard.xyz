@@ -20,10 +20,6 @@ music, software, travel, photography, and occasional forays into politics
 (though I have to say that politics is a subject that should
 generally be avoided, because it tends to overshadow
 everything else that's useful or interesting).</p>
-<p class="info">
-<author><a href="/author/glen-campbell.html">Glen Campbell</a>
-</author>
-</p>
 {{ range (where .Data.Pages "Section" "!=" "").GroupBy "Section" }}
     {{ $item := index $.Site.Data.sections .Key }}
     {{ if $item }}

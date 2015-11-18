@@ -68,6 +68,13 @@ background: #b4d5fe; }
 a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
 background: #b4d5fe; }
 
+a:hover {
+color: gray;
+}
+a:active {
+color: RebeccaPurple;
+}
+
 /* Headings */
 h2, h3 {
 font-weight: normal;
@@ -76,7 +83,8 @@ margin-top: 2em;
 margin-bottom: .5em;
 }
 h1 {
-font-size: 32pt;
+font-size: 42pt;
+letter-spacing: -1pt;
 line-height: 120%;
 margin-top: 64pt;
 margin-bottom: 64pt;
@@ -116,14 +124,14 @@ text-decoration: underline;
 header hr {
 margin-top: 0;
 }
-footer {
+body > footer {
 clear: both;
 line-height: 140%;
 font-size: 10pt;
 padding: 3em 0 2em 0;
 color: #ddd;
 }
-footer a, footer a:visited {
+body > footer a, body > footer a:visited {
 color: #bbb;
 }
 article {
@@ -145,6 +153,15 @@ padding-right: 3px;
 article blockquote {
 font-style: italic;
 margin: 1em 3em 1em 3em;
+}
+article blockquote footer {
+font-style: normal;
+font-size: smaller;
+font-size: 1.1rem;
+text-align: right;
+}
+article blockquote footer cite {
+font-style: italic;
 }
 article img, article .flickr-embed {
 text-align: center;
@@ -207,6 +224,9 @@ margin: 0;
 }
 .info .tags:before {
 content: "Tags: ";
+}
+.info a:hover {
+color: black;
 }
 .tags li {
 display: inline;
