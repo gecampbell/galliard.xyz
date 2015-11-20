@@ -44,11 +44,12 @@ padding: 0 1em 0 1em;
 -webkit-text-size-adjust: 100%;
 }
 
+/* Links: replicate underline that clears descenders */
+
+/*
 a:link, a:visited { 
 color: inherit; 
 }
-
-/* Links: replicate underline that clears descenders */
 
 a:link { text-decoration: none;
 background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
@@ -67,9 +68,18 @@ background: #b4d5fe; }
 
 a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
 background: #b4d5fe; }
-
+*/
+a:link {
+color: inherit;
+text-decoration: underline;
+}
+a:visited {
+color: inherit;
+text-decoration: none;
+}
 a:hover {
 color: gray;
+text-decoration: none;
 }
 a:active {
 color: RebeccaPurple;
