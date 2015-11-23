@@ -8,13 +8,13 @@ comments: true
 ---
 
 When [we moved to the west end of
-Beaumont](/essay/go-west-young-man.html), our new house on Potter
-Dr. backed up to a drainage ditch. Because the land is so flat and
-the area is so prone to heavy rains, Beaumont has dozes of these
-ditches, designed to help move water away in the event of flooding
-(which happened all too often). The ditch was probably 20' across
-and 10' deep, and usually only had a stream at the bottom that was
-a few inches deep.
+Beaumont](/essay/2012/01/go-west-young-man.html), our new house on
+Potter Dr. backed up to a drainage ditch. Because the land is so
+flat and the area is so prone to heavy rains, Beaumont has dozes
+of these ditches, designed to help move water away in the event of
+flooding (which happened all too often). The ditch was probably 20'
+across and 10' deep, and usually only had a stream at the bottom
+that was a few inches deep.
 
 Behind our house, however, was a large culvert that fed (presumably)
 from the street-level drainage system into the ditch. Because of
@@ -27,9 +27,9 @@ minnows and a few small perch.
 One year we found a number of [alligator
 gar](http://en.wikipedia.org/wiki/Alligator_gar). How they got there
 I have no idea; I presume that the the eggs fell off some visiting
-bird. In any event, we encountered these little gar in the ditch&mdash;about
-six inches long, and half of that was mouth with dozens of needle
-sharp teeth.
+bird. In any event, we encountered these little gar in the
+ditch&mdash;about six inches long, and half of that was mouth with
+dozens of needle sharp teeth.
 
 It was my brother Mark who came up with the idea of catching a few
 and putting them in our aquarium so that we could see them close
