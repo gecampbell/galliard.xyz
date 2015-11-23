@@ -244,16 +244,21 @@ display: inline;
 .tags li:after {
 content: ", ";
 }
-.tags li:last-child:after {
+ol.cloud {
+line-height: auto;
+}
+.cloud li:last-child:after {
 content: ".";
 }
-.tags a:link, .tags a:visited {
+.cloud a:link, .cloud a:visited {
 text-decoration: none;
-color: cornflowerblue;
+color: #039;
+padding: 1px 2px 1px 2px;
 }
-.tags a:hover {
-color: black;
-text-decoration: underline;
+.cloud a:hover {
+color: white;
+background: #039;
+text-decoration: none;
 }
 .list {
 -webkit-column-count: 2;
@@ -272,14 +277,15 @@ clear: both;
 .sidebar {
 font-size: smaller;
 background: #eee;
-padding: 1em;
+padding: 0 1em 0 1em;
 margin-left: 1em;
 margin-bottom: 1em;
 line-height: 150%;
 float: right;
+border: 1px silver solid;
 }
 .sidebar a {
-padding: 1px;
+padding: 1px 2px 1px 2px;
 }
 .sidebar a:hover {
 background: white;

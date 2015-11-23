@@ -45,7 +45,7 @@
 {{ end }}
 
 {{ if .Params.listtags }}
-<ol class="tags">
+<ol class="tags cloud">
 {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
 <li><a href="/tags/{{ $name | urlize }}.html" class="{{ if (gt $taxonomy.Count 8) }}huge{{ else if (gt $taxonomy.Count 4) }}large{{ else if (gt $taxonomy.Count 1) }}medium{{ else }}small{{ end }}" title="{{ if (eq $taxonomy.Count 1) }}1 page{{ else }}{{ $taxonomy.Count }} pages{{ end }}">{{ $name }}</a></li>
 {{ end }}
