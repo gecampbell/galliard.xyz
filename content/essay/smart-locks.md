@@ -10,6 +10,8 @@ As we're preparing to move into a new house soon, I've been looking into
 "smart locks." These have been around for a while, and there are 
 several that seem to be well-known in the industry. 
 
+> [Click here for recent updates](#updates)
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/darwinbell/688068169/in/photolist-23NwGi-p4xhXr-pot5Bm-q2tcea-cE6PS-abxBej-aarjox-4THT2X-4Fwo5w-har8Zw-7PQpaZ-bAUx5j-ak2q9v-9uKVDe-4xqJnT-pNfQ2V-4w9csh-dFVZx5-e6k5Ak-fEQbRx-8oQ1nH-8r2CVR-pAJBqx-dG6neS-SoX26-9oNPZn-mgjU2U-azPbgb-rbCTk1-oFMMB2-72xiQ7-6aRr8S-X54YR-mvZV7g-xAAwCr-9MD5JS-cEPn4G-9PhLeX-aPr4CB-bn1aZv-bD1SrM-rHGUvU-4XpCsF-dfJH2y-9TL2A2-kDM3G2-55Gdmp-4jh6xz-9yZsf4-8H3hcn" title="geometrically locked"><img src="https://farm2.staticflickr.com/1024/688068169_71a5b46f1e_n.jpg" width="320" height="232" alt="geometrically locked" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A "smart lock" replaces (or supplements) your deadbolt and allows you to 
@@ -76,3 +78,15 @@ plastic keyfob that you can give to a child or a friend, but additional
 ones cost $25 each.
 
 [Check out this Forbes article (from 2014) on smart locks](http://www.forbes.com/sites/michaelwolf/2014/10/14/here-come-the-bluetooth-smart-locks-august-danalock-to-help-fuel-3-6-billion-market/).
+
+<a name="updates">
+## Updates
+
+2015-11-23: The 
+[Schlage Sense](http://www.schlage.com/en/home/keyless-deadbolt-locks/sense.html)
+is a new offering in the smart lock space. It has the option of allowing
+entry via a numeric keypad (you can generate unique codes for
+visitors so that you can track who is coming and going) and also
+permits Bluetooth automatic unlocking. As a bonus, if you have a
+Bluetooth-enabled Apple TV near the lock, you can control it
+remotely. 
