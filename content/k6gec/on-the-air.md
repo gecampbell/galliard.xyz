@@ -6,7 +6,6 @@ category: K6GEC
 tags: [ham radio,amateur radio,radio]
 comments: true
 ---
-<a href="https://www.flickr.com/photos/gecampbell/14125429108" title="DSCF2607.JPG by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3697/14125429108_f2acd1c682_n.jpg" width="320" height="213" alt="DSCF2607.JPG"></a>
 The new radio finally arrived yesterday evening, so we plugged all the bits together, tuned the antenna, and started playing.
 
 There were some really cool QSOs in progress: for example, we overheard a caller from Moscow and people from various US states (Texas, Minnesota, Wisconsin) responding to him. We didn't have any such luck; our little 10W transceiver was apparently lost in the noise.

@@ -8,7 +8,7 @@ comments: true
 ---
 Once you get started in ham radio as a hobby, you'll soon learn that there are never-ending ways to spend your money. Radios, of course, and antennas are the big-ticket items, but soon you'll find that you need (or you think you'll need) an antenna analyzer, RF meter, SWR meter, antenna tuner, power supply, coax, twin-lead cables, drill for mounting things, and so forth.
 
-<a href="https://www.flickr.com/photos/gecampbell/14921415012" title="IMG_0628.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3881/14921415012_6685b50bb5_n.jpg" width="320" height="240" alt="IMG_0628.jpg"></a>
+<a href="https://www.flickr.com/photos/gecampbell/14921415012" title="IMG_0628.jpg by Glen Campbell, on Flickr"><img src="https://farm4.staticflickr.com/3881/14921415012_6685b50bb5_n.jpg" width="320" height="240" alt="IMG_0628.jpg" class="pull-left"></a>
 Since I'm not made out of money, I try to be reasonable, but one of the items I thought would be a necessity was a multimeter. My father was an electrician; so, when we were growing up, I always had (or had access to) a multimeter (or, as we called it back in the day, a "volt-ohm meter").
 
 This is a multi-purpose device that measures electrical stuff: at the very least, it should measure AC/DC voltage and resistance. They range in cost from about $20 to well over $100; I picked up this one (shown in the photo) from the local <a href="http://www.homedepot.com">Home Depot</a> store for about $40. It measures capacitance, diode charge, frequency (though not RF frequency) and even temperature, as well as power, resistance, and current.[^1]

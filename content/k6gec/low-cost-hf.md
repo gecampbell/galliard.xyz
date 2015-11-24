@@ -8,7 +8,7 @@ comments: true
 ---
 The [MFJ-9420](http://www.mfjenterprises.com/Product.php?productid=MFJ-9420) is one of the low-cost radios that we've been looking at, now that we have access to the HF frequencies. My son and I found this video last night and it helped us to learn a lot.
 
-[youtube http://youtu.be/DodeQ7Z343Y]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DodeQ7Z343Y" frameborder="0" allowfullscreen></iframe>
 
 The video is part of a series put together by David Savidge at [AF5DN on air](http://af5dn.com). His website has a ton of useful stuff there.
 

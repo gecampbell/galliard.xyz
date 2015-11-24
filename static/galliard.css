@@ -78,7 +78,7 @@ color: inherit;
 text-decoration: none;
 }
 a:hover {
-color: gray;
+color: #039;
 text-decoration: none;
 }
 a:active {
@@ -234,9 +234,6 @@ margin: 0;
 }
 .info .tags:before {
 content: "Tags: ";
-}
-.info a:hover {
-color: black;
 }
 .tags li {
 display: inline;
