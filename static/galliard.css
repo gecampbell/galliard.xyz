@@ -206,25 +206,25 @@ margin: 0;
 font-size: 16pt;
 line-height: 28pt;
 }
-ol.tags li {
+.tags li {
 display: inline;
 }
-ol.tags li:after {
+.tags li:after {
 content: ", ";
 }
-ol.tags li:last-child:after {
+.tags li:last-child:after {
 content: ".";
 }
-ol.tags .small {
+.tags .small {
 font-size: 12pt;
 }
-ol.tags .medium {
+.tags .medium {
 font-size: 16pt;
 }
-ol.tags .large {
+.tags .large {
 font-size: 21pt;
 }
-ol.tags .huge {
+.tags .huge {
 font-size: 28pt;
 }
 .tags {
