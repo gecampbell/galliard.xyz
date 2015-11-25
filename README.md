@@ -14,10 +14,10 @@ Hugo from that link before you get started.
 To contribute a new blog post to Galliard, fork this
 repository and add a new post with Hugo like this:
 
-    hugo new post/your-post-title.md
+    hugo new essay/your-post-title.md
 
 Your post will show up under
-`content/post/{year}/{month}/your-post-title.md` and you can edit
+`content/essay/{year}/{month}/your-post-title.md` and you can edit
 it (in [Markdown](http://daringfireball.net/projects/markdown/syntax))
 to your heart's content.
 
