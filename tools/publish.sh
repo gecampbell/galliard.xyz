@@ -9,13 +9,6 @@ hugo
 echo Publishing...
 cd public
 echo ==
-echo Uploading web fonts...
-echo ==
-aws s3 sync . s3://galliard.xyz \
-    --exclude '*.*' \
-    --include 'webfonts/*' \
-    --cache-control 'max-age=31557600 '
-echo ==
 echo Uploading HTML files...
 echo ==
 aws s3 sync . s3://galliard.xyz \
@@ -28,7 +21,6 @@ echo ==
 echo Uploading non-HTML files...
 echo ==
 aws s3 sync . s3://galliard.xyz \
-    --exclude 'webfonts/*' \
     --exclude '*.html' \
     --cache-control 'max-age=600' \
     --delete
