@@ -15,15 +15,14 @@ padding: 0 1em 0 1em;
 
 a:link {
 color: #039;
-text-decoration: underline;
+text-decoration: none;
 }
 a:visited {
 color: #585858;
-text-decoration: none;
 }
 a:hover {
 color: #039;
-text-decoration: none;
+text-decoration: underline;
 }
 a:active {
 color: RebeccaPurple;
