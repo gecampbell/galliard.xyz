@@ -1,40 +1,7 @@
-/**
- * @license
- * MyFonts Webfont Build ID 3121213, 2015-11-06T14:15:12-0500
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: GalliardPro-Bold by ITC
- * URL: http://www.myfonts.com/fonts/itc/galliard/pro-bold/
- * 
- * Webfont: GalliardPro-BoldItalic by ITC
- * URL: http://www.myfonts.com/fonts/itc/galliard/pro-bold-italic/
- * 
- * Webfont: GalliardPro-Italic by ITC
- * URL: http://www.myfonts.com/fonts/itc/galliard/pro-italic/
- * 
- * Webfont: GalliardPro-Roman by ITC
- * URL: http://www.myfonts.com/fonts/itc/galliard/pro-roman/
- * 
- * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=3121213
- * Licensed pageviews: 250,000
- * Webfonts copyright: Copyright 1986, 1987, 1992, 2001 Adobe Systems Incorporated.  Typeface designs Copyright 2006 International Typeface Corporation. All rights reserved.
- * 
- * © 2015 MyFonts Inc
-*/
-@import url("//hello.myfonts.net/count/2fa04e");
-@font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: normal;src: url('webfonts/2FA04E_0_0.eot');src: url('webfonts/2FA04E_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_0_0.woff2') format('woff2'),url('webfonts/2FA04E_0_0.woff') format('woff'),url('webfonts/2FA04E_0_0.ttf') format('truetype');}
-@font-face {font-family: 'ITCGalliard';font-weight: bold;font-style: italic;src: url('webfonts/2FA04E_1_0.eot');src: url('webfonts/2FA04E_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_1_0.woff2') format('woff2'),url('webfonts/2FA04E_1_0.woff') format('woff'),url('webfonts/2FA04E_1_0.ttf') format('truetype');}
-@font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: italic;src: url('webfonts/2FA04E_2_0.eot');src: url('webfonts/2FA04E_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_2_0.woff2') format('woff2'),url('webfonts/2FA04E_2_0.woff') format('woff'),url('webfonts/2FA04E_2_0.ttf') format('truetype');}
-@font-face {font-family: 'ITCGalliard';font-weight: normal;font-style: normal;src: url('webfonts/2FA04E_3_0.eot');src: url('webfonts/2FA04E_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2FA04E_3_0.woff2') format('woff2'),url('webfonts/2FA04E_3_0.woff') format('woff'),url('webfonts/2FA04E_3_0.ttf') format('truetype');}
+@import url('http://fast.fonts.net/cssapi/5a35d5b7-f434-4e08-804e-b3447396894a.css');
 
 body {
-font-family: ITCGalliard;
+font-family:'ITC Galliard W01';
 background: #fffff8;
 color: #111;
 max-width: 40em;
@@ -46,36 +13,13 @@ padding: 0 1em 0 1em;
 
 /* Links: replicate underline that clears descenders */
 
-/*
-a:link, a:visited { 
-color: inherit; 
-}
-
-a:link { text-decoration: none;
-background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
-background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
--webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
--moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-background-repeat: no-repeat, no-repeat, repeat-x;
-text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
-background-position: 0% 93%, 100% 93%, 0% 93%; }
-
-@media screen and (-webkit-min-device-pixel-ratio: 0) { a:link { background-position-y: 87%, 87%, 87%; } }
-
-a:link::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
-background: #b4d5fe; }
-
-a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
-background: #b4d5fe; }
-*/
 a:link {
-color: inherit;
+color: #039;
 text-decoration: underline;
 }
 a:visited {
-color: inherit;
-text-decoration: underline;
+color: #585858;
+text-decoration: none;
 }
 a:hover {
 color: #039;
@@ -86,7 +30,7 @@ color: RebeccaPurple;
 }
 
 /* Headings */
-h2, h3 {
+h2, h3, h4 {
 font-weight: normal;
 font-style: italic;
 margin-top: 2em;
@@ -311,7 +255,7 @@ float: left;
 padding-right: 1em;
 }
 pre, p code {
-font-family: 'Source Code Pro', Courier, fixed;
+font-family: 'Source Code Pro', 'Andale Mono', 'Courier New', Courier, fixed;
 font-size: 12pt;
 background: #eee;
 padding: 1px 2px 1px 2px;
