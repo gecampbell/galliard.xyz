@@ -24,7 +24,7 @@ cornmeal instead of flour.
 * (optional) 1/2 tsp. grated nutmeg
 * 1 9" unbaked pie crust
 
-### Instructions
+### Directions
 
 * Preheat oven to 350&deg;F (175&deg;C)
 * Beat eggs until frothy; add butter, sugar and flour. Continue mixing until smooth.
