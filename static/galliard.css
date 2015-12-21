@@ -15,7 +15,7 @@ padding: 0 1em 0 1em;
 
 a:link {
 color: #039;
-text-decoration: none;
+text-decoration: underline;
 }
 a:visited {
 color: #585858;
@@ -26,6 +26,7 @@ text-decoration: underline;
 }
 a:active {
 color: RebeccaPurple;
+text-decoration: none;
 }
 
 /* Headings */
