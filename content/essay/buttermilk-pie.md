@@ -3,7 +3,7 @@ author = "Glen Campbell"
 date = "2015-12-21T12:37:05-08:00"
 draft = false
 location = "Lynnwood, WA (USA)"
-tags = ["cooking", "recipe", "pie", "buttermilk"]
+tags = ["cooking", "recipe", "pie", "buttermilk", "baking", "dessert"]
 title = "Buttermilk Pie"
 
 +++
