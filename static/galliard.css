@@ -100,9 +100,9 @@ article > p:first-child:first-letter {
 float: left;
 font-size: 56pt;
 height: 48pt;
-line-height: 51pt;
+line-height: 41pt;
 color: #039;
-padding-right: 3px;
+padding-right: 2pt;
 }
 article blockquote {
 font-style: italic;
