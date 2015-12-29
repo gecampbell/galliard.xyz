@@ -8,6 +8,7 @@ title = "Turkey, Cranberry, and Wild Rice Soup"
 
 +++
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gecampbell/23945672152/in/dateposted-public/" title="Turkey-Cranberry Soup"><img src="https://farm2.staticflickr.com/1550/23945672152_0f4dae9379_n.jpg" width="320" height="320" alt="Turkey-Cranberry Soup" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 Here's a great way to use up that leftover turkey and such from 
 Thanksgiving or Christmas dinner. 
 Or just make it on its own; it's really wonderful. 
