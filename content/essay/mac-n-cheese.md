@@ -9,7 +9,7 @@ comments: true
 ---
 This is my variation of [Alton Brown's Stovetop Mac'n'Cheese](http://www.foodnetwork.com/recipes/alton-brown/stove-top-mac-n-cheese-recipe/index.html).  I chose to modify his, not because I think I'm a superior chef, but because his recipe used strange volumes of ingredients; for example, his version calls for 10 ounces of cheese, but all the bagged shredded cheese in the grocery store comes in 8 or 12 ounce packages.
 
-### Ingredients
+## Ingredients
 
 * 12 ounces elbow macaroni
 * 6 tablespoons butter
@@ -21,7 +21,7 @@ This is my variation of [Alton Brown's Stovetop Mac'n'Cheese](http://www.foodnet
 * 3/4 teaspoon dry mustard
 * 12 ounces sharp cheddar, shredded
 
-### Directions
+## Directions
 
 In a large pot of boiling, salted water cook the pasta to al dente and drain. Return to the pot and melt in the butter. Toss to coat.
 

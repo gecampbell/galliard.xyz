@@ -17,7 +17,7 @@ simple white bread (our favorite
 Since most of the recipes are for a smaller loaf, I adapted this one
 to make a full-sized loaf.
 
-----
+## Ingredients
 
 * 10 oz warm water[^1]
 * 2 teaspoons yeast (1 packet)
@@ -26,12 +26,12 @@ to make a full-sized loaf.
 * 2 teaspoons salt
 * 4 cups white flour
 
-Put hot water, yeast and sugar in your bread machine.
-Let it stand for 10-15 minutes depending on the temp of your water.
-The yeast will foam.
+## Directions
 
-Add remaining ingredients.
-
-Use rapid or basic white cycles. 
+* Put hot water, yeast and sugar in your bread machine.
+  Let it stand for 10-15 minutes depending on the temp of your water.
+  The yeast will foam.
+* Add remaining ingredients.
+* Use rapid or basic white cycles. 
 
 [^1]: For dry yeast, the water should be about 110&deg;F. If it's too hot, it will kill the yeast.

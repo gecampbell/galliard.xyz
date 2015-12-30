@@ -14,7 +14,7 @@ wonderful.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gecampbell/23698836861/in/datetaken/" title="Chocolate Krinkles"><img src="https://farm1.staticflickr.com/757/23698836861_9ac8822310_n.jpg" width="320" height="320" alt="Chocolate Krinkles" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Ingredients
+## Ingredients
 
 * 1 cup unsweetened cocoa powder
 * 2 cups sugar
@@ -26,18 +26,18 @@ wonderful.
 * 1/2 tsp. salt
 * 1/2 cup confectioner's sugar
 
-### Directions
+## Directions
 
 This is a refrigerator dough, so you can make it up the night before
 you cook it and keep it in the refrigerator overnight.
 
-#### Step 1
+### Step 1
 1. In a medium bowl, mix together cocoa, white sugar, and vegetable oil. 
 1. Beat in eggs one at a time, then stir in the vanilla. 
 1. Combine the flour, baking powder, and salt; stir into the cocoa mixture.
 1. Cover dough and chill for at least 4 hours.
 
-#### Step 2
+### Step 2
 1. Preheat oven to 350 degrees F (175 degrees C).
 1. Line cookie sheets with parchment paper or silicone mats.
 1. Roll dough into one inch balls. (You can use a melon baller for this, 

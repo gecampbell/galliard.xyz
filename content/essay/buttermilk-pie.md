@@ -12,7 +12,7 @@ Buttermilk pie is a southern favorite, and I love the not-too-sweet
 flavor and custard texture. It's similar to chess pie, but chess pie uses
 cornmeal instead of flour. 
 
-### Ingredients
+## Ingredients
 
 * 3 eggs
 * 1/2 cup butter, softened
@@ -24,10 +24,11 @@ cornmeal instead of flour.
 * (optional) 1/2 tsp. grated nutmeg
 * 1 9" unbaked pie crust
 
-### Directions
+## Directions
 
 * Preheat oven to 350&deg;F (175&deg;C)
-* Beat eggs until frothy; add butter, sugar and flour. Continue mixing until smooth.
+* Beat eggs until frothy; add butter, sugar and flour. 
+  Continue mixing until smooth.
 * Stir in buttermilk, vanilla, lemon juice and nutmeg. 
   Personally, I don't care for nutmeg, so I leave it out. 
 * Pour into the pie crust. 
