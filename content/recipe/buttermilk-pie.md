@@ -12,6 +12,8 @@ Buttermilk pie is a southern favorite, and I love the not-too-sweet
 flavor and custard texture. It's similar to chess pie, but chess pie uses
 cornmeal instead of flour. 
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gecampbell/24249610712/in/dateposted-public/" title="Buttermilk Pie"><img src="https://farm2.staticflickr.com/1509/24249610712_49baa11504_n.jpg" width="320" height="320" alt="Buttermilk Pie" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Ingredients
 
 * 3 eggs
