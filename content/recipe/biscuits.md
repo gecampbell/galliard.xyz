@@ -2,7 +2,7 @@
 author = "Glen Campbell"
 date = "2016-01-26T21:28:24-08:00"
 draft = false
-tags = ["other"]
+tags = ["cooking","baking","recipes","biscuits","scones"]
 title = "Biscuits"
 
 +++
