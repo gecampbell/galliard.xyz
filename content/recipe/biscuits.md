@@ -84,6 +84,6 @@ touching,
    and all the leavening will force them to rise *up* rather than
    *out*, which helps them to be flaky.
 8. Bake them for 15 minutes, or until they're brown enough for you.
-   Brush with butter as they're backing to help get a golden top.
+   Brush with butter as they're baking to help get a golden top.
 
 Serve with sausage gravy.
