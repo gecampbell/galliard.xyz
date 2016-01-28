@@ -13,7 +13,7 @@ you want to avoid that sort of public affray, however, but still
 get some varying points of view, simply browse through a few thousand
 of the most common biscuit recipes on the Internet.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gecampbell/24008677554/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1563/24008677554_56c6356476_n.jpg" width="320" height="320" alt="Untitled" class="pull-right"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1563/24008677554_56c6356476_n.jpg" width="320" height="320" alt="Biscuits" class="pull-right">
 
 I set out a few weeks ago to teach myself how to bake biscuits.  I
 grew up with my mother making dry, "hockey puck" style pastries,
