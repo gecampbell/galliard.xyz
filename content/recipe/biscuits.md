@@ -61,7 +61,7 @@ scones](http://cooking.nytimes.com/recipes/1016082-master-recipe-for-biscuits-an
    pastry cutter, but you can use a food processor, a pair of knives,
    or your fingers. The goal is to break it down into small, pea-sized
    pieces that are coated in flour. (A great suggestion that I've
-   heard by never tried is to use a cheese grater with very cold
+   heard but never tried is to use a cheese grater with very cold
    butter.)
 4. Add the liquid. You can reduce the amount of liquid to as little
 as
