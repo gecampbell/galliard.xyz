@@ -8,7 +8,7 @@ title = "Syncope"
 
 +++
 
-On March 25, I passed out. It's still not exactly certain *why* I passed out. The day before, I had a cold (diagnosed by a visit to my doctor after several days of running a fever) and a temperature of 102&deg;F. That evening (of the 24th), I took Thera-Flu&reg;, my "go-to" medicine of choice for colds and sinus congestion. 
+On February 25, I passed out. It's still not exactly certain *why* I passed out. The day before, I had a cold (diagnosed by a visit to my doctor after several days of running a fever) and a temperature of 102&deg;F. That evening (of the 24th), I took Thera-Flu&reg;, my "go-to" medicine of choice for colds and sinus congestion. 
 
 There's some speculation that the decongestant in the Thera-Flu, coupled with the hot shower I took that morning, caused my heart to go into [*atrial fibrillation*](https://en.wikipedia.org/wiki/Atrial_fibrillation), or "AFib." In AFib, the atrium, or top chamber of the heart, starts quivering without really pumping, which means that the bottom part of the heart has to pump even harder, or else one's body doesn't get enough blood flow and, thus, enough oxygen. 
 
