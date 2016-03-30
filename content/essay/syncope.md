@@ -50,4 +50,4 @@ The biggest concern of all the doctors was the concussion: they've advised me th
 
 One of the biggest annoyances (so far) is that the laceration in my forehead "nearly severed" a nerve, and thus my forehead (from the scar up to about the middle of my head) is essentially numb. There's some hope that the nerve will heal and I'll regain some feeling there, but that hasn't happened so far (and may never happen). 
 
-[^1]: While the surgeons were repairing the damage later, they left the operating room during the middle of the procedure to talk to my wife. "We found a large quantity of white powder in the would. Do you know what that is?" "Drywall." "Oh, ok."
+[^1]: While the surgeons were repairing the damage later, they left the operating room during the middle of the procedure to talk to my wife. "We found a large quantity of white powder in the wound. Do you know what that is?" "Drywall." "Oh, ok."
