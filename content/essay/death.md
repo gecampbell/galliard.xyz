@@ -9,7 +9,7 @@ comments: true
 
 In 1972, my grandfather ("Papaw") Lockwood Prentiss Cammack died of leukemia; I was 11 years old. It was my first real experience or encounter with death, apart from the occasional pet fish or animal we hunted. I don't recall much about his illness leading up to his death, apart from some vague recollections that my mother spent a fair amount of time at the hospital with him.
 
-I do recall his funeral, however. I was deeply impressed by the number of crying people there, and I was a bit ashamed of myself for feeling sad (we had been raised, I suppose, with the traditional "boys don't cry" dictum. My grandmother, weeping, threw herself at the casket and kissed him before being moved off to the hearse.
+I do recall his funeral, however. I was deeply impressed by the number of crying people there, and I was a bit ashamed of myself for feeling sad (we had been raised, I suppose, with the traditional "boys don't cry" dictum). My grandmother, weeping, threw herself at the casket and kissed him before being moved off to the hearse.
 
 [![Cammack Family, 1971](http://farm3.staticflickr.com/2393/2166883953_1729a849d2.jpg)](http://www.flickr.com/photos/gecampbell/2166883953/)
 
