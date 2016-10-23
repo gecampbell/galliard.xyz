@@ -11,8 +11,8 @@ I have a couple of web cams installed:
 
 ## Front
 
-<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/JMOMef"></iframe>
+<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/j2DKGdclFd?autoplay=1" allowfullscreen></iframe>
 
 ## Back
 
-<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/6zAzQc" ></iframe>
+<iframe type="text/html" frameborder="0" width="480" height="394" src="//video.nest.com/embedded/live/5iL96TKo1D?autoplay=1" allowfullscreen></iframe>
