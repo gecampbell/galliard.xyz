@@ -10,16 +10,16 @@ title = "Oh, the places you'll go!"
 
 ## States I've Visited
 
-<script src="http://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-<script src="http://cdn.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
-<script src="http://cdn.amcharts.com/lib/3/themes/light.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/themes/light.js" type="text/javascript"></script>
 <div id="mapdiv1" style="height: 450px;"></div>
-<div style="font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="http://www.amcharts.com/visited_states/" style="color: #B4B4B7;">Create your own visited states map</a> or check out the <a href="http://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
+<div style="font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_states/" style="color: #B4B4B7;">Create your own visited states map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv1",{
 type: "map",
 theme: "light",
-pathToImages : "http://cdn.amcharts.com/lib/3/images/",
+pathToImages : "https://cdn.amcharts.com/lib/3/images/",
 panEventsEnabled : true,
 backgroundColor : "#535364",
 backgroundAlpha : 1,
@@ -211,16 +211,16 @@ rollOverOutlineColor : "#000000"
 
 ## Countries I've Visited
 
-<script src="http://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-<script src="http://cdn.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-<script src="http://cdn.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+<script src="https://cdn.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
 <div id="mapdiv" style="height: 450px;"></div>
-<div style="font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="http://www.amcharts.com/visited_countries/" style="color: #B4B4B7;">Create your own visited countries map</a> or check out the <a href="http://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
+<div style="font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_countries/" style="color: #B4B4B7;">Create your own visited countries map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv",{
 type: "map",
 theme: "dark",
-pathToImages : "http://cdn.amcharts.com/lib/3/images/",
+pathToImages : "https://cdn.amcharts.com/lib/3/images/",
 panEventsEnabled : true,
 backgroundColor : "#535364",
 backgroundAlpha : 1,
