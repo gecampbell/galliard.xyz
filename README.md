@@ -8,8 +8,8 @@ if you care to.
 ## Contributing
 
 Galliard is built using [Hugo](http://gohugo.io), a static site
-generator. If you'd like to contribute, it will help if you download
-Hugo from that link before you get started.
+generator. If you'd like to contribute, it will help if you install
+it according to the instructions at that link before you start.
 
 To contribute a new blog post to Galliard, fork this
 repository and add a new post with Hugo like this:
