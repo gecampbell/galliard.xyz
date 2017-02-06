@@ -7,6 +7,9 @@ title = "Biscuits"
 
 +++
 
+*Updated:* Now that I've been making these for a year or so, I've made
+a few small changes below. 
+
 If you ever want to start an argument in a room full of chefs, just
 mention that you make your biscuits with water instead of milk.  If
 you want to avoid that sort of public affray, however, but still
@@ -42,32 +45,40 @@ milk. (You can also replace the butter with cream cheese.) Here's
 another [opinionated NY Times receipt for biscuits and
 scones](http://cooking.nytimes.com/recipes/1016082-master-recipe-for-biscuits-and-scones).
 
+You can find baking powder without aluminimum, which seems to add a
+bitter taste. I've taken to using Argo, and I get good results. 
+
 ## Ingredients
 * 2 cups flour
 * 2 T. baking powder
-* 1 T. sugar (3 T. if you want British-style scones)
+* 2 T. sugar (3-4 T. if you want British-style scones)
 * 1 tsp. salt
 * 1/2 stick of butter (or 1/2 cup shortening)
-* 1 cup milk, water, or heavy cream
+* 1 cup heavy cream, buttermilk, half-and-half, milk, or just water
 
 ## Directions
-1. Preheat the oven to 425&deg;F. 
+1. Preheat the oven to 450&deg;F. 
 2. Mix the dry ingredients. You can use a fork, a food processor,
    a sifter,
    and, honestly, it doesn't really matter. Just don't forget the
    salt, or you'll regret it.
 3. Cut in the fat. Again, it doesn't really matter how you do this;
    I use a
-   pastry cutter, but you can use a food processor, a pair of knives,
-   or your fingers. The goal is to break it down into small, pea-sized
-   pieces that are coated in flour. (A great suggestion that I've
-   heard but never tried is to use a cheese grater with very cold
+   pastry cutter and my fingers, but you can use a food processor, 
+   a pair of knives,
+   or any other method. The goal is to break it down into small, pea-sized
+   pieces that are coated in flour. A great suggestion 
+   is to use a cheese grater with very cold
    butter.)
 4. Add the liquid. You can reduce the amount of liquid to as little
 as
    1/2 cup without too much problem, and I recommend doing this if
    the dough comes out very sticky.  I just use a spoon and mix
-   everything together, then turn it onto a floured board to knead.
+   everything together, then turn it onto a floured tea cloth 
+   (or cloth napkin) to knead.
+   Add more liquid if it's too dry and falls apart; add more flour if
+   it's too sticky. You may have to adjust based on the ambient 
+   humidity. 
 5. Squeeze the dough together and knead it a few times. I tried
 using a
    roller, but found that it's not really necessary. Just pat it
@@ -75,10 +86,15 @@ using a
    letting it sit for 30 minutes, but I haven't found that that
    makes any difference at all, and I'm not sure what that's supposed
    to do except make you hungrier.
+   Add more flour if it sticks to the tea cloth, and use the cloth to 
+   fold the dough over itself a few times; this will add layers to
+   the biscuits and help them to be more flaky.
 6. Cut the biscuits; I use a round cookie/biscuit cutter, but cutting
 them
    into squares may help reduce the amount of leftover dough that
-   has to be re-kneaded and re-cut.
+   has to be re-kneaded and re-cut. I've always been told to never twist
+   the cutter when cutting them, as it can pinch the edges together 
+   and prevent them from rising. 
 7. Arrange the biscuits on the baking sheet. Make sure they're all
 touching,
    and all the leavening will force them to rise *up* rather than
