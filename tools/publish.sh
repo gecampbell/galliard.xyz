@@ -11,7 +11,7 @@ cd public
 echo ==
 echo Uploading HTML files...
 echo ==
-aws s3 sync . s3://galliard.xyz \
+aws s3 sync . s3://glenc.co \
     --exclude '*.*' \
     --include '*.html' \
     --cache-control 'max-age=600' \
@@ -21,7 +21,7 @@ aws s3 sync . s3://galliard.xyz \
 echo ==
 echo Uploading non-HTML files...
 echo ==
-aws s3 sync . s3://galliard.xyz \
+aws s3 sync . s3://glenc.co \
     --exclude '*.html' \
     --cache-control 'max-age=600' \
     --acl public-read \

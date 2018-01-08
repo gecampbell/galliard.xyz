@@ -21,7 +21,7 @@ precision, and playfulness of life and the world around us.
 
 I maintain a number of mailing lists; [click here to see all of
 them](http://broadpool.email).  A [mailing
-list](http://galliard.xyz/essay/2015/09/the-mailing-list.html) is
+list](http://glenc.co/essay/2015/09/the-mailing-list.html) is
 a wonderful way to discuss the things we've found online, or to
 find people with similar interests.  You can receive messages bunched
 in a daily digest, or you can get them individually.  You can set
