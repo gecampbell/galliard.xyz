@@ -2,7 +2,7 @@
 {{ $currentPage := . }}
 {{ range .Site.Menus.main }}
   {{ if ge .Weight 0 }}
-  <a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="current-section"{{end}} href="{{.URL}}">{{ .Name }}</a>
+  <a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="current-section"{{end}} title="Go to {{ .Name }}" href="{{.URL}}">{{ .Name }}</a>
   {{ end }}
 {{ end }}
 </span>

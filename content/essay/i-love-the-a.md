@@ -6,7 +6,7 @@ tags = ["essay","typography","galliard"]
 +++
 
 I have to be honest, the reason I love the
-[Galliard](https://en.wikipedia.org/wiki/Galliard_(typeface\))
+[Galliard](https://www.moma.org/collection/works/139306)
 typeface is because of the lowercase "a."
 
 When I was in third grade, my older brother Ted was doing something
