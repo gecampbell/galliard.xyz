@@ -90,3 +90,21 @@ visitors so that you can track who is coming and going) and also
 permits Bluetooth automatic unlocking. As a bonus, if you have a
 Bluetooth-enabled Apple TV near the lock, you can control it
 remotely. 
+
+2018-01-08: I ended up installing the Schlage Sense a few years ago.
+For the most part, it's a very decent lock. 
+However, it has the problem of relying upon Apple's HomeKit, which meant that
+(a) you had to have the lock within range of an Apple TV, and 
+(b) it wouldn't work with the Amazon Echo. 
+Now, the Amazon Echo didn't really exist when I started this effort,
+so I made a bad bet on the future of HomeKit. 
+I ended up with dozens of smart-home devices that could be
+controlled via the Echo/Alexa, and only one that required HomeKit
+(the front door lock).
+
+Schlage recognized the problem and released an add-on WiFi adapter 
+for the Sense lock. This converts the device into a standalone 
+item that can be controlled directly or via the Echo/Alexa
+without requiring HomeKit. I installed one of these a few days
+ago, and it seems to work great, except that it no longer
+works with "Hey, Siri."
