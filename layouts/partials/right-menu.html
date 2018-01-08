@@ -1,10 +1,17 @@
 <span class="right-menu">
+{{/*
 {{ range $section, $taxonomy := .Site.Sections }}
+section={{$section}}
   {{ if ne $section "" }}
-    {{ $item := index $.Site.Data.sections $section }}
+    {{ $item := index .Site.Data.sections $section }}
     {{ if $item }}
     <a href="/{{$section}}.html" title="{{index $item "title"}}"{{if eq $.Section $section}} class="current-section"{{end}}>{{index $item "menu"}}</a>
     {{ end }}
   {{ end }}
+{{ end }}
+*/}}
+{{ $currentPage := . }}
+{{ range .Site.Menus.main }}
+<a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="current-section"{{end}} href="{{.URL}}">{{ .Name }}</a>
 {{ end }}
 </span>

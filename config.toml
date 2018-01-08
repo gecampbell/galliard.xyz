@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Galliard"
 uglyURLS = true
 copyright = "2009-2018"
+sectionPagesMenu = "main"
 
 [blackfriday]
 fractions = false
