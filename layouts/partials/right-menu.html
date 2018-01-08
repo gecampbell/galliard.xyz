@@ -12,6 +12,8 @@ section={{$section}}
 */}}
 {{ $currentPage := . }}
 {{ range .Site.Menus.main }}
-<a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="current-section"{{end}} href="{{.URL}}">{{ .Name }}</a>
+  {{ if ge .Weight 0 }}
+  <a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="current-section"{{end}} href="{{.URL}}">{{ .Name }}</a>
+  {{ end }}
 {{ end }}
 </span>
