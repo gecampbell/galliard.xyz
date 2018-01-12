@@ -7,11 +7,11 @@ location = "Lynnwood, Washington (USA)"
 
 * **My Personal Pages**
 * [Photography Portfolio](http://broadpool.photography)
-* [500px](http://500px.glenc.xyz)
-* [Flickr](http://flickr.glenc.xyz)
-* [Twitter](http://tw.glenc.xyz)
-* [Facebook](http://fb.glenc.xyz)
-* [Github](http://git.glenc.xyz)
+* [500px](http://500px.glenc.co)
+* [Flickr](http://flickr.glenc.co)
+* [Twitter](http://tw.glenc.co)
+* [Facebook](http://fb.glenc.co)
+* [Github](http://git.glenc.co)
 * **Sites I've Built**
 * [Clock](http://clock.fyi)
 * [Is FriendFeed Dead Yet?](http://isfriendfeeddeadyet.com)

@@ -38,9 +38,9 @@ All the DNS is handled by
 The script used to upload the site is stored in the `/tools`
 directory of the repository.
 Most of the images used on this site are stored in either
-[Flickr](http://flickr.glenc.xyz)
+[Flickr](http://flickr.glenc.co)
 or
-[500px](http://500px.glenc.xyz). 
+[500px](http://500px.glenc.co). 
 The [podcast](/podcast.html) audio files (and some static images)
 are also served via S3 and CloudFront. 
 
