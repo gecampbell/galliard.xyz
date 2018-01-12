@@ -17,6 +17,6 @@ So, in the spring of 1984, I had signed up for four fairly easy courses as elect
 
 "Oh, crap," I thought, "I'm going to be here for another year!"
 
-Actually, what he said was, "Let me be the first to congratulate you on your graduation last December." He then went on to explain that, after reviewing my transcript again, they had realized that it was only the music _lessons_ that could not be counted as electives&mdash;all of the other music course (some 36 hours) did count, and therefore, I had actually graduated a month or so earlier.
+Actually, what he said was, "Let me be the first to congratulate you on your graduation last December." He then went on to explain that, after reviewing my transcript again, they had realized that it was only the music _lessons_ that could not be counted as electives&mdash;all of the other music courses (some 36 hours) did count, and therefore, I had actually graduated a month or so earlier.
 
 He was very nice, and offered to let me go immediately into grad school, which I did. That didn't work out, unfortunately, but I'm still the only member of the Class of 1983 that didn't find out about it until 1984.
