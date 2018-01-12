@@ -1,6 +1,6 @@
-baseurl = "http://galliard.xyz/"
+baseurl = "http://glenc.co/"
 languageCode = "en-us"
-title = "Galliard"
+title = "Glen Campbell"
 uglyURLS = true
 copyright = "2009-2018"
 sectionPagesMenu = "main"
@@ -9,10 +9,10 @@ sectionPagesMenu = "main"
 fractions = false
 
 [permalinks]
-essay = "/essay/:year/:month/:filename.html"
-project = "/project/:filename.html"
-author = "/author/:title.html"
-photo = "/photo/:year/:month/:filename.html"
+essay = "/essay/:year/:month/:filename"
+project = "/project/:filename"
+author = "/author/:filename"
+photo = "/photo/:year/:month/:filename"
 
 [params]
 Description = "Fresh content and links served occasionally"
