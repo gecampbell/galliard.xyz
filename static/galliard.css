@@ -45,11 +45,11 @@ margin-bottom: 64pt;
 font-weight: normal;
 }
 h1.home {
-font-size: 72pt;
-font-size: 10vw;
-line-height: 90%;
+font-size: 38pt;
+font-size: 8vw;
+line-height: 80%;
 color: #039;
-letter-spacing: -4pt;
+letter-spacing: -5pt;
 letter-spacing: -.3vw;
 margin-bottom: 0;
 }
