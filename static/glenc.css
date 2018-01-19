@@ -45,6 +45,7 @@ line-height: 120%;
 margin-top: 64pt;
 margin-bottom: 64pt;
 font-weight: normal;
+font-style: italic;
 }
 h1.home {
 font-size: 38pt;
@@ -54,6 +55,7 @@ color: #039;
 letter-spacing: -5pt;
 letter-spacing: -.3vw;
 margin-bottom: 0;
+font-style: normal;
 }
 hr {
 border: 0; 
