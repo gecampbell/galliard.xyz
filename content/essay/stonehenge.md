@@ -1,7 +1,7 @@
 ---
 title: "Stonehenge"
 location: "Salisbury, England"
-date = "2018-01-23T10:35:39-08:00"
+date: "2018-01-23T10:35:39-08:00"
 author: "Glen Campbell"
 tags: ["photos","color","light","england","salisbury","tourism","travel","ancient","UK"]
 draft: false

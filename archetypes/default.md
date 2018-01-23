@@ -1,6 +1,6 @@
 ---
 title: "YourTitleHere"
 author: "Glen Campbell"
-tags: [other]
+tags: ["other"]
 draft: false
 ---
