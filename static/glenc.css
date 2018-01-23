@@ -105,7 +105,8 @@ float: left;
 font-size: 56pt;
 height: 48pt;
 line-height: 41pt;
-color: #039;
+#color: #039;
+color: red;
 padding-right: 2pt;
 }
 article blockquote {
