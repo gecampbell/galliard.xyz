@@ -18,6 +18,18 @@ the user-agent transmitted by their browser or other device. The
 site *does* use [Google Analytics](http://www.google.com/analytics),
 which appears to generate and collect tracking cookies.
 
+## Advertising
+
+This site does not display advertising. If you are seeing ads on my 
+pages, it is because your ISP has altered those pages without my 
+permission, and I would appreciate it if you would let me know
+so that I can sue them. 
+
+I will display advertising on my clothes, vehicle, or other possessions
+for a minimum of US$9,999.99 per month, payable quarterly, with a
+minimum 3-month payment up front. Attaching advertising to something
+I own after I purchase it constitutes acceptance of these terms.
+
 ## Editorial Policy
 
 I edit this site. I fix typos, I update information, and I alter
