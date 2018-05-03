@@ -1,6 +1,6 @@
 +++
 title = "Apple Airpods"
-date = 2018-04-11T17:11:30Z
+date = 2018-05-03T12:11:30Z
 author = "Glen Campbell"
 location = "Lynnwood, WA (USA)"
 tags = ["essay","other","apple","hardware","review"]
