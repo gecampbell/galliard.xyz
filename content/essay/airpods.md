@@ -51,3 +51,6 @@ them, I've probably listened to 4-5 times the quantity of music
 since before the purchase. The packaging and ease of use of
 the Airpods have greatly reduced the "friction" involved
 in using headphones.
+
+Because of the price, they're not for everyone, but if you can
+afford it, they're highly recommended.
