@@ -12,6 +12,8 @@ They looked far to similar to the ubiquitous in-ear earbuds that are
 supplied with nearly every Apple iPhone. 
 And those, I had found, had serious problems staying in my ears.
 
+![Airpods](https://glenc.co/airpods.jpg)
+
 And so, as the Airpods became more and more popular online
 and amongst my friends and acquaintances, I could not understand
 the popularity. I persisted with my other Bluetooth headphones
