@@ -3,7 +3,7 @@ title: "R&eacute;sum&eacute;: Glen Campbell"
 author: "Glen Campbell"
 slug: resume
 tags: [cloud, engineer, data, resume, sql, etl, software, architect, amazon, yahoo, rackspace, openstack, systems analysis, seattle, san antonio, silicon valley]
-date: "2015-06-14T08:00:00-07:00"
+date: "2018-05-10T08:00:00-07:00"
 ---
 I am an experienced manager, software engineer, speaker, and architect
 of very large-scale computer systems. In the past, I've had a special
@@ -28,8 +28,25 @@ and very large extract, transform, and load (ETL) processes.
 
 #### [Amazon.com](http://www.amazon.com), Seattle, WA (2015-present).
 
-As a software development manager for a couple of teams in the retail division,
-I hold end-to-end responsibility for several internal systems.
+Currently a software development manager for Amazon pricing, I lead
+teams involved in competitive matching, business intelligence/data
+engineering, user experience, and application workflow management.
+During my time at Amazon, I was a key participant on initiatives
+surrounding the automation of Amazon retail pricing and worked with
+stakeholders on key components of pricing systems related to price
+perception.
+
+While I cannot discuss the details of many of these projects, most
+of them involved large-scale distributed systems as well as
+near-real-time processing of data. We also worked with significant
+back-end data systems for use by machine-learning engineers and
+data scientists.
+
+As a development manager, I not only had software developers as my
+direct reports but also other development managers. Beyond the
+purely technical and project work, I helped to mentor new managers
+and engineers and develop training programs for use across the
+organization.
 
 #### [Rackspace Hosting](http://www.rackspace.com), San Antonio, TX (2010-2015).
 
