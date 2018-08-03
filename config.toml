@@ -15,7 +15,7 @@ author = "/author/:filename"
 photo = "/photo/:year/:month/:filename"
 
 [params]
-Description = "Fresh content and links served occasionally"
+Description = "Fresh content served occasionally"
 Author = "Glen Campbell"
 
 [[menu.main]]
