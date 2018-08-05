@@ -1,4 +1,4 @@
-Galliard
+Galliard - glenc.co
 ========
 
 Galliard is a blog that focuses on enjoying the world with text and
