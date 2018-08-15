@@ -49,3 +49,4 @@ the site to S3:
 
 You of course need to have your credentials properly set up in the
 `aws` CLI tool.
+
