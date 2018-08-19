@@ -1,17 +1,17 @@
-Galliard - glenc.co
+glenc.co
 ========
 
-Galliard is a blog that focuses on enjoying the world with text and
-not images. It's open, meaning that you are welcome to contribute
+This is my blog; it focuses on enjoying the world with text and
+not (many) images. It's open, meaning that you are welcome to contribute
 if you care to.
 
 ## Contributing
 
-Galliard is built using [Hugo](http://gohugo.io), a static site
+This site is built using [Hugo](http://gohugo.io), a static site
 generator. If you'd like to contribute, it will help if you install
 it according to the instructions at that link before you start.
 
-To contribute a new blog post to Galliard, fork this
+To contribute a new blog post to this site, fork this
 repository and add a new post with Hugo like this:
 
     hugo new essay/your-post-title.md
