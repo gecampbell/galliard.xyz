@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/glenc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://glenc.co
+  * I am glenc (https://keybase.io/glenc) on keybase.
+  * I have a public key with fingerprint 0690 2D98 41AF 1864 EB08  A4C5 3F00 40CD D3A5 4EAC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ffa11341ff7fc054371374b8d5f4833756d25b749dfc508bcc6d9ae798abea560a",
+      "fingerprint": "06902d9841af1864eb08a4c53f0040cdd3a54eac",
+      "host": "keybase.io",
+      "key_id": "3f0040cdd3a54eac",
+      "kid": "0101ffa11341ff7fc054371374b8d5f4833756d25b749dfc508bcc6d9ae798abea560a",
+      "uid": "53228cecc5152ac8cc7e16c209916000",
+      "username": "glenc"
+    },
+    "merkle_root": {
+      "ctime": 1543983434,
+      "hash_meta": "c02b39e30d70f49a33f87d809e11ae423113c556730d71be34126725331a52f9",
+      "seqno": 4054068
+    },
+    "revoke": {
+      "sig_ids": [
+        "db78a713b3426b9628f271e8c7f3e1bb2ee837d8212a1672b00e0db7dcf6e71d0f"
+      ]
+    },
+    "service": {
+      "hostname": "glenc.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1543983437,
+  "expire_in": 157680000,
+  "prev": "f5bf0fae42954789f3ba454a56eae91e74390feaab26f88505afc323a0aa6a6e",
+  "seqno": 72,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMKyAnicrVN/aBxFGL206a+DlvvDitJAYWsoh2eZ2dnZmb1iNLRq1IimEELb6HVm
+9pvLktztZXdzbSkxoBw2UGsplIoQK0ErKKi0GAiChEZF6LVRoSgVLLQqlEhFpSp6
+NM4GRRH/9K9hZt733vveN/PB+pWZbNuVk42nN723e6bt/LlwLDO4pu+xQ5YM/YNW
+8ZA1DMsLjPgQJ6XhwLeKFsIIay0wJo5ZmVaIOoRhwhzJfaodTgijrm9TyRzP14oi
+LpVyfU8A87iQIKiLhFWwdFAtQ1SLgmqS0roesn2PO1hozF0HJOLCUZRohBykfJ8I
+6oBQpnAojNMKY06KGLYFoTkzm9Kyvf/A/8++x5bpKLFtrkApiqktFFeKAXaVjTwP
+uwihFBhDVBUVMOjyCFSVNV6wKhANj0ApCsMkTVYlQXqPjRWPE4c4pjsRD5UqkAhT
+ppAtiQcE+QxpxxOEaM58jjzAWIBjE9ONotRlKQJLMK3ZLrMpIVhQW3vGRAyj1dAq
+OqZb5HLjIIJ6OAypeByUTWaxVdxr+ZJxYcKQxLFd6bk21zbDwBXTBLCUNgAnRtnG
+tsBGQSIEyBT5SrvAsI+09eR4KhbVA7VMng7pn81vU+mYalGYhCocMadDSVKLi2km
+ycFaCtsPsvQnQUkGVd88D1NRhygOwqrJyCD/HRcrWHCgFkRQClIEZS430aNUB+qG
+UlOpkU6T8qjDuKeJFA51zCRBgIeBGR6kQQhpu5pziqjQithEICFc4cLf+THb+BRl
+w2lSq4pkLAJr/NzcYHumLZtZvWpF+m8y2XW5v37TqjNrlnp+fqWzdOL1buv3aw+W
+zybNL988erynp3m8fmnH4oa50x133frk4i+z6+/I9S7O5I8992nvrsb7/TcXOq8G
+P11vdB1pbsgd3vj89MfzwY2HnUtXdr56ubXr6ljut81Hwq35Cz/c2/HAy3vg+ze2
+j5JKx9TpKX928YUnvsr3btm7czbz7fS0/gY/js5/3v9ufuCpha/p2YHD7c3bbn/r
+1L6+maP3vLQgtzxz54n7X9u3Z/+N7oEV2dK66/LmybXtrUZzyv1w8trmHydab6/N
+zW2fZKtb382/01W4u3KmEw2Shy4u7egf//XRj/pGb1VOrbzQOLD0bFd+/vKLn+Un
+uyfu+2I6ix/BE1uPbSq0/gB1+X0H
+=zbtW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glenc
+
+==================================================================

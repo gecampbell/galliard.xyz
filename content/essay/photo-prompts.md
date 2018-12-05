@@ -39,7 +39,7 @@ to work on, one for each week of the year (plus a few extra).
 1. Tweet a link to the photo with the hashtag `#photoprompt`. Feel free to add any other `#hashtags` or description. 
 
 Want to follow along? Just follow the 
-[#photopics](https://twitter.com/search?q=%23phototopics)
+[#photoprompt](https://twitter.com/search?q=%23photoprompt)
 tag on Twitter. 
 
 ## The List
