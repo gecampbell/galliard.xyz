@@ -1,5 +1,5 @@
 +++
-title = "Basic Waffles"
+title = "Waffles"
 date = 2018-12-27T10:32:09-08:00
 author = "Glen Campbell"
 tags = ["breakfast","waffles","flour"]

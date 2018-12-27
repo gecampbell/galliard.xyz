@@ -1,6 +1,6 @@
 +++
 title = "YourTitleHere"
-date: {{ .Date }}
+date = {{ .Date }}
 author = "Glen Campbell"
 tags = ["other"]
 draft = false
