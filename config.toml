@@ -2,7 +2,7 @@ baseurl = "http://glenc.co/"
 languageCode = "en-us"
 title = "Glen Campbell"
 uglyURLS = true
-copyright = "2009-2018"
+copyright = "2009-2019"
 sectionPagesMenu = "main"
 
 [blackfriday]
