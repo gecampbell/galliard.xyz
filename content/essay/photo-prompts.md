@@ -44,62 +44,65 @@ tag on Twitter.
 
 ## The List
 
-1. Shadow
-1. Shoot from the hip
-1. Close-up
-1. Patterns and repetition
-1. Static 
-1. I can't see them any more
-1. Lightbulbs
-1. Did you see that? 
-1. Happiness
-1. Sky above, earth below
-1. Epic selfie
-1. Calm
-1. Food and drink
-1. Zippers
-1. Squirrel!
-1. Fast cars and motion
-1. Athletes 
-1. Precis
-1. Silhouette
-1. Lions and tigers and bears, oh my!
-1. The vault of the heavens
-1. Amour
-1. Architecture and public spaces
-1. Eww, that's gross
-1. Life
-1. Pastries
-1. Suggestive
-1. Formality
-1. Product and function
-1. Winter
-1. Street portraits
-1. The decisive moment
-1. Struggles
-1. Death
-1. Pets and their owners
-1. Fire
-1. Tree and leaf
-1. Fantastic beasts
-1. Kitchen
-1. Bedroom
-1. Ceremonies
-1. Emergency
-1. Something wicked
-1. Skin
-1. Eyes
-1. Hair
-1. Stillness
-1. Broken
-1. Macro
-1. Night photography
-1. Nature
-1. Laughter
-1. Mirror
-1. Water
-1. Love
-1. Signs
-1. Something Old
-1. Reflection
+1. Shadow (January 1)
+1. Shoot from the hip (January 8)
+1. Close-up (January 15)
+1. Patterns and repetition (January 22)
+1. Static (January 29)
+1. I can't see them any more (February 5)
+1. Lightbulbs (February 12)
+1. Did you see that? (February 19)
+1. Happiness (February 26)
+1. Sky above, earth below (March 5)
+1. Epic selfie (March 12)
+1. Calm (March 19)
+1. Food and drink (March 26)
+1. Zippers (April 2)
+1. Squirrel! (April 9)
+1. Fast cars and motion (April 16)
+1. Athletes (April 23)
+1. Precis (April 30)
+1. Silhouette (May 7)
+1. Lions and tigers and bears, oh my! (May 14)
+1. The vault of the heavens (May 21)
+1. Amour (May 28)
+1. Architecture and public spaces (June 4)
+1. Eww, that's gross (June 11)
+1. Life (June 18)
+1. Pastries (June 25)
+1. Suggestive (July 2)
+1. Formality (July 9)
+1. Product and function (July 16)
+1. Winter (July 23)
+1. Street portraits (July 30)
+1. The decisive moment (August 6)
+1. Struggles (August 13)
+1. Death (August 20)
+1. Pets and their owners (August 27)
+1. Fire (September 3)
+1. Tree and leaf (September 10)
+1. Fantastic beasts (September 17)
+1. Kitchen (September 24)
+1. Bedroom (October 1)
+1. Ceremonies (October 8)
+1. Emergency (October 15)
+1. Something wicked (October 22)
+1. Skin (October 29)
+1. Eyes (November 5)
+1. Hair (November 12)
+1. Stillness (November 19)
+1. Broken (November 26)
+1. Macro (December 3)
+1. Night photography (December 10)
+1. Nature (December 17)
+1. Laughter (December 24)
+1. Mirror (December 31)
+1. Water (Spare)
+1. Love (Spare)
+1. Signs (Spare)
+1. Something Old (Spare)
+1. Reflection (Spare)
 
+(Dates following the prompt indicate the start of the week. Those labeled
+"spare" may be used to substitute for any of the others, though each
+spare prompt may only be used once.)
