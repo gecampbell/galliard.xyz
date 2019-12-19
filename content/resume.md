@@ -5,21 +5,22 @@ slug: resume
 tags: [cloud, engineer, data, resume, sql, etl, software, architect, amazon, yahoo, rackspace, openstack, systems analysis, seattle, san antonio, silicon valley]
 date: "2018-05-10T08:00:00-07:00"
 ---
-I am an experienced manager, software engineer, speaker, and architect
-of very large-scale computer systems. In the past, I've had a special
-emphasis on the LAMP (Linux, Apache, MySQL, and PHP) websites, but
-these days I'm mostly working with utility-based compute systems
-(aka "cloud computing"). However, even though some consider the
-term  "old-fashioned" these days, I tend to think of myself as a
-<a href="http://en.wikipedia.org/wiki/Systems_analysis">systems
+I am an experienced software development manager with experience
+delivering large-scale systems. In the past, I've been a developer 
+and systems architect, though I haven't done much coding in the last 
+few years.
+
+However, even though some consider the term  "old-fashioned" these
+days, I tend to think of myself as a <a
+href="http://en.wikipedia.org/wiki/Systems_analysis">systems
 analyst</a>; that is, my primary skill is the ability to visualize
 and solve problems related to integrating large-scale systems such
-as websites, service-oriented network architectures, data warehouses,
-and other software constructs. I have a proven track record of
-launching large-scale software projects; I was the architect and
-lead developer for the first service-oriented architecture (SOA)
-website at Yahoo!, and I've launched numerous other large-scale
-sites and products since then.
+as high-volume distributed systems, large websites, service-oriented
+network architectures, data warehouses, and other software constructs.
+I have a proven track record of launching large-scale software
+projects; I was the architect and lead developer for the first
+service-oriented architecture (SOA) website at Yahoo!, and I've
+launched numerous other large-scale sites and products since then.
 
 In the past, I've been a consultant and architect of data warehouses
 and very large extract, transform, and load (ETL) processes.
@@ -28,13 +29,13 @@ and very large extract, transform, and load (ETL) processes.
 
 #### [Amazon.com](http://www.amazon.com), Seattle, WA (2015-present).
 
-Currently a software development manager for Amazon pricing, I lead
-teams involved in competitive matching, business intelligence/data
-engineering, user experience, and application workflow management.
-During my time at Amazon, I was a key participant on initiatives
-surrounding the automation of Amazon retail pricing and worked with
-stakeholders on key components of pricing systems related to price
-perception.
+Currently a software development manager for Amazon retail pricing.
+While at Amazon, I have lead teams involved in competitive matching,
+business intelligence/data engineering, user experience, and
+application workflow management.  During my time at Amazon, I was
+a key participant on initiatives surrounding the automation of
+Amazon retail pricing and worked with stakeholders on key components
+of pricing systems related to price perception.
 
 While I cannot discuss the details of many of these projects, most
 of them involved large-scale distributed systems as well as
