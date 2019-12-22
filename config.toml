@@ -1,8 +1,8 @@
-baseurl = "http://glenc.co/"
+baseurl = "https://glenc.co/"
 languageCode = "en-us"
 title = "Glen Campbell"
 uglyURLS = true
-copyright = "2009-2019"
+copyright = "2009-2020"
 sectionPagesMenu = "main"
 
 [blackfriday]
@@ -17,16 +17,17 @@ photo = "/photo/:year/:month/:filename"
 [params]
 Description = "Fresh content served occasionally"
 Author = "Glen Campbell"
+mainSections = ["essay", "recipe"]
 
 [[menu.main]]
 identifier="author"
-weight=-1
+Weight=-1
 
 [[menu.main]]
 name="K6GEC"
 identifier="k6gec"
 url="/k6gec.html"
-weight=9
+Weight=9
 
 [[menu.main]]
 name="Podcast"

@@ -26,23 +26,28 @@ and occasional ill-advised forays into politics
 (though I have to say that politics is a subject that should
 generally be avoided, because it tends to overshadow
 everything else that's useful or interesting).</p>
-{{ range (where .Data.Pages "Section" "!=" "").GroupBy "Section" }}
-    {{ $item := index $.Site.Data.sections .Key }}
-    {{ if $item }}
-        <h2><a href="{{ .Key }}.html">{{ index $item "title" }}</a></h2>
-        <p>{{ index $item "description" }}</p>
-        <ol class="index list">
-        {{ range .Pages }}
-        {{ .Render "item" }}
-        {{ end }}
-        </ol>
-        <hr>
-    {{ end }}
+
+<hr>
+
+{{ range $key, $value := .Site.Data.sections }}
+	{{ with $value }}
+	<h2><a href="{{ $key }}.html">{{ .title }}</a></h2>
+	<p>{{ .description }}</p>
+	<ol class="index list">
+  	{{ range (where $.Site.Pages "Section" $key) }}
+  		{{ if ne .Kind "section" }}
+		  {{ .Render "item" }}
+		{{ end }}
+  	{{ end }}
+	</ol>
+	<hr>
+	{{ end }}
 {{ end }}
+
 <h2>Miscellaneous</h2>
 <ol class="index list">
-{{ range where .Data.Pages "Section" "==" "" }}
-{{ .Render "item" }}
+{{ range where .Data.Pages.ByTitle "Section" "==" "" }}
+  {{ .Render "item" }}
 {{ end }}
 </ol>
 </article>
