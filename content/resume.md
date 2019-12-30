@@ -6,9 +6,9 @@ tags: [cloud, engineer, data, resume, sql, etl, software, architect, amazon, yah
 date: "2018-05-10T08:00:00-07:00"
 ---
 I am an experienced software development manager with experience
-delivering large-scale systems. In the past, I've been a developer 
-and systems architect, though I haven't done much coding in the last 
-few years.
+delivering large-scale systems and the complete software development
+lifecycle. In the past, I've been a developer and systems architect,
+though I haven't done much coding in the last few years.
 
 However, even though some consider the term  "old-fashioned" these
 days, I tend to think of myself as a <a
