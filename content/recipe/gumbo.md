@@ -20,7 +20,7 @@ chicken, then use pork. If you want to add tomatoes, feel free (though
 that's blasphemous for some). About the only things that don't change are
 the roux, the mirepoix or "holy trinity" (onions, celery, and bell pepper), 
 and the okra. (There's long been an unsubstantiated legend that the word
-"gumbo" itself is derived from an African word for "okra.")
+*gumbo* itself is derived from an African word for *okra.*)
 
 Anyway, here's Akiva's unedited gumbo recipe. 
 
