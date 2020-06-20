@@ -11,8 +11,8 @@ I don't particularly like beer, but I've discovered (since moving to the
 Pacific Northwest) that I really, really like cider. On a trip to Europe in
 May 2019, I discovered that there are some beers that I enjoy, too, but those
 are mostly of the Kolsch-style and not too common these days. (For the
-record, I cannot stand the IPAs that are so popular; why would someone 
-want to lick a pine tree is beyond me).
+record, I cannot stand the IPAs that are so popular; why someone 
+would want to lick a pine tree is beyond me).
 
 *(Note: I started this as a simple text file, but I'll try to add links
 to the brewers over time.)*
