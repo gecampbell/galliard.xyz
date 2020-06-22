@@ -29,9 +29,9 @@ Ratings:
 
 ## Cider 
 
-* 4 - Snowdrift Forefather, 7.5% (ABV), very nice! Sweeter than I expected. Pale gold color.  
-* 5 - Snowdrift Red, 7.5%, ooh lovely. Pink, not too sweet, but very tasty.
-* 1 - Snowdrift Dry, 7.4%, very very dry, tough to drink.  Don’t do this again
+* 4 - [Snowdrift](http://www.snowdriftcider.com) Forefather, 7.5% (ABV), very nice! Sweeter than I expected. Pale gold color.  
+* 5 - [Snowdrift](http://www.snowdriftcider.com) Red, 7.5%, ooh lovely. Pink, not too sweet, but very tasty.
+* 1 - [Snowdrift](http://www.snowdriftcider.com) Dry, 7.4%, very very dry, tough to drink.  Don’t do this again
 * 3 - Tieton, dry. Very nice. Smoother than the Seattle dry. 
 * 2 - Finnriver Apple Abbey, 6.5%, unusual aftertaste but not bad at all. Almost smoky but not quite. Would try again but probably not at the top of my list. 
 * 4 - Washington Golden Delicious, 5.5%, bright and sweet. Very tasty. 
