@@ -10,44 +10,6 @@ title = "Biscuits"
 *Updated:* Now that I've been making these for a year or so, I've made
 a few small changes below. 
 
-If you ever want to start an argument in a room full of chefs, just
-mention that you make your biscuits with water instead of milk.  If
-you want to avoid that sort of public affray, however, but still
-get some varying points of view, simply browse through a few thousand
-of the most common biscuit recipes on the Internet.
-
-<img src="https://farm2.staticflickr.com/1563/24008677554_56c6356476_n.jpg" width="320" height="320" alt="Biscuits" class="pull-right">
-
-I set out a few weeks ago to teach myself how to bake biscuits.  I
-grew up with my mother making dry, "hockey puck" style pastries,
-but my grandmother's were superb.  I started with [Sam Sifton's
-classic recipe in the NY
-Times](http://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits).
-For a more scientific approach, however, check out [this
-Instructable](http://www.instructables.com/id/The-Science-of-Biscuits/) on
-the science of biscuits. It helped me confirm that there were a lot
-of unproven myths about biscuits that can be safely ignored.  For
-example, you can make biscuits with water instead of milk (or
-buttermilk, or heavy cream) and most people can't tell the difference.
-You can knead them a lot and it won't make too much of a difference
-(though why risk it?). And both butter and shortening will turn out
-well. It seems to make more of a difference how thick you roll them
-(we've found that 1" or more makes a better biscuit). And I've
-discovered, quite by accident, that leaving out the salt is not
-good at all.
-
-In England, scones are much like (southern) American biscuits,
-except that they tend to be sweeter (and they're usually served
-cold instead of hot).  To make [English-style
-scones](http://www.nytimes.com/2014/02/26/dining/biscuits-and-scones-share-tender-secrets.html),
-add some extra sugar to the dough and use heavy cream instead of
-milk. (You can also replace the butter with cream cheese.) Here's
-another [opinionated NY Times receipt for biscuits and
-scones](http://cooking.nytimes.com/recipes/1016082-master-recipe-for-biscuits-and-scones).
-
-You can find baking powder without aluminimum, which seems to add a
-bitter taste. I've taken to using Argo, and I get good results. 
-
 ## Ingredients
 * 2 cups flour
 * 2 T. baking powder
@@ -103,3 +65,43 @@ touching,
    Brush with butter as they're baking to help get a golden top.
 
 Serve with sausage gravy.
+
+----
+
+If you ever want to start an argument in a room full of chefs, just
+mention that you make your biscuits with water instead of milk.  If
+you want to avoid that sort of public affray, however, but still
+get some varying points of view, simply browse through a few thousand
+of the most common biscuit recipes on the Internet.
+
+<img src="https://farm2.staticflickr.com/1563/24008677554_56c6356476_n.jpg" width="320" height="320" alt="Biscuits" class="pull-right">
+
+I set out a few weeks ago to teach myself how to bake biscuits.  I
+grew up with my mother making dry, "hockey puck" style pastries,
+but my grandmother's were superb.  I started with [Sam Sifton's
+classic recipe in the NY
+Times](http://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits).
+For a more scientific approach, however, check out [this
+Instructable](http://www.instructables.com/id/The-Science-of-Biscuits/) on
+the science of biscuits. It helped me confirm that there were a lot
+of unproven myths about biscuits that can be safely ignored.  For
+example, you can make biscuits with water instead of milk (or
+buttermilk, or heavy cream) and most people can't tell the difference.
+You can knead them a lot and it won't make too much of a difference
+(though why risk it?). And both butter and shortening will turn out
+well. It seems to make more of a difference how thick you roll them
+(we've found that 1" or more makes a better biscuit). And I've
+discovered, quite by accident, that leaving out the salt is not
+good at all.
+
+In England, scones are much like (southern) American biscuits,
+except that they tend to be sweeter (and they're usually served
+cold instead of hot).  To make [English-style
+scones](http://www.nytimes.com/2014/02/26/dining/biscuits-and-scones-share-tender-secrets.html),
+add some extra sugar to the dough and use heavy cream instead of
+milk. (You can also replace the butter with cream cheese.) Here's
+another [opinionated NY Times receipt for biscuits and
+scones](http://cooking.nytimes.com/recipes/1016082-master-recipe-for-biscuits-and-scones).
+
+You can find baking powder without aluminimum, which seems to add a
+bitter taste. I've taken to using Argo, and I get good results. 
