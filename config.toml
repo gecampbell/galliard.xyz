@@ -2,9 +2,10 @@ baseurl = "https://glenc.co/"
 languageCode = "en-us"
 title = "Glen Campbell"
 uglyURLS = true
-copyright = "2009-2020"
+copyright = "2009-2021"
 sectionPagesMenu = "main"
-
+[markup.goldmark.renderer]
+unsafe= true
 [blackfriday]
 fractions = false
 
