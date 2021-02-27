@@ -21,7 +21,7 @@ And, finally, towards my senior year, a friend of mine managed to get his hands 
 
 This is what a gateway drug looks like. Even though I attended college on a music scholarship, and even though I graduated as an English major, I have been programming computers[^5] ever since.  It's now my career and has served me well.
 
-[^1]: Like so many others, I cannot remember her name.
+[^1]: Mrs. Mattox.
 
 [^2]: Not that it would have mattered in the long run.
 
