@@ -29,7 +29,13 @@ and very large extract, transform, and load (ETL) processes.
 
 #### [Amazon.com](http://www.amazon.com), Seattle, WA (2015-present).
 
-Currently a software development manager for Amazon retail pricing.
+*2020-present* Software development manager for Account Integrity in the
+Customer Trust and Partner Support organization; we're responsible for 
+mitigating attacks on Amazon customer data. This involves various types of
+challenges to stop bad actors, either in person or via bots, from taking over
+customer accounts.
+
+*2015-2020* Software development manager for Amazon retail pricing.
 While at Amazon, I have lead teams involved in competitive matching,
 business intelligence/data engineering, user experience, and
 application workflow management.  During my time at Amazon, I was
