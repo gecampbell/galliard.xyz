@@ -1,6 +1,6 @@
 +++
 title = "Cider and Beer"
-date = 2020-06-20T11:19:53-07:00
+date = 2023-05-01T11:19:53-07:00
 author = "Glen Campbell"
 location = "Lynnwood, WA (USA)"
 tags = ["essay","other","beer","cider","ratings"]
@@ -29,6 +29,7 @@ Ratings:
 
 ## Cider 
 
+* 5 - 1066 by St-Lô Cider, 7.5%, absolutely fabulous, but really difficult to find.
 * 4 - [Snowdrift](http://www.snowdriftcider.com) Forefather, 7.5% (ABV), very nice! Sweeter than I expected. Pale gold color.  
 * 5 - [Snowdrift](http://www.snowdriftcider.com) Red, 7.5%, ooh lovely. Pink, not too sweet, but very tasty.
 * 1 - [Snowdrift](http://www.snowdriftcider.com) Dry, 7.4%, very very dry, tough to drink.  Don’t do this again
