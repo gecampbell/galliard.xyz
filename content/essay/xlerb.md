@@ -4,7 +4,6 @@ author: "Glen Campbell"
 category: essays
 date: "2013-03-20T10:58:00-07:00"
 tags: [xlerb, forth, Leo Brodie]
-published: FALSE
 comments: true
 ---
 If you have somehow managed to find this site, you are either curious

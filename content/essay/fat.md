@@ -4,7 +4,7 @@ author: "Glen Campbell"
 date: "2015-09-08T21:00:00-07:00"
 category: essays
 tags: [health,weight,bariatric,surgery,fitness,food,cycling]
-published: true
+published: "2015-09-08T21:00:00-07:00"
 ---
 Most of you who know me (except for perhaps the very few who met me
 in elementary school) know that I've always been fat. "Big," "heavy,"

@@ -5,7 +5,6 @@ date: "2014-11-21T12:00:00-07:00"
 category: essays
 tags: [work,life,balance]
 comments: false
-published: false
 ---
 One of the most influential books I've ever read is [Rapid Development: Taming Wild Software Schedules](http://smile.amazon.com/dp/1556159005) by Steve McConnell. It contains a wealth of well-documented information about how to manage software development projects; this is information that I not only use in my personal career, but data that I can use to influence my peers and co-workers around me.
 

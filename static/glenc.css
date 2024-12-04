@@ -1,13 +1,17 @@
 /*@import url('//fast.fonts.net/cssapi/5a35d5b7-f434-4e08-804e-b3447396894a.css');
 
 /* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+/*
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+*/
 
 /* glenc.css: my style sheet */
 
 body {
 /*font-family:'ITC Galliard W01';*/
-font-family: 'Cormorant Garamond', serif;
+font-family: 'EB Garamond', serif;
+font-weight: 300;
 background: white; 
 color: #111;
 max-width: 42em;
@@ -37,10 +41,9 @@ text-decoration: none;
 
 /* Headings */
 h2, h3, h4 {
-font-weight: normal;
-font-style: italic;
 margin-top: 2em;
 margin-bottom: .5em;
+font-weight: 500;
 }
 h1 {
 font-size: 36pt;
@@ -48,7 +51,7 @@ letter-spacing: -1pt;
 line-height: 120%;
 margin-top: 64pt;
 margin-bottom: 64pt;
-font-weight: bold;
+font-weight: 500;
 font-style: italic;
 }
 h1.home {

@@ -4,7 +4,7 @@ author: "Glen Campbell"
 date: "2015-09-16T11:00:00-07:00"
 category: essays
 tags: [home,automation,smart,locks,august,dana,kwikset,kevo,danalock,door]
-published: true
+published: "2015-09-16T11:00:00-07:00"
 ---
 As we're preparing to move into a new house soon, I've been looking into
 "smart locks." These have been around for a while, and there are 
